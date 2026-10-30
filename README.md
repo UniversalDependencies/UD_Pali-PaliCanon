@@ -1,22 +1,22 @@
 # Summary
 
-UD_Pali-PaliCanon is the first UD treebank for the Pāli language containing manual annotations of sentences from [the Pāli Canon](https://en.wikipedia.org/wiki/Pali_Canon).  We have only just begun to annotate the Pāli Canon and we welcome help to expand our coverage!
+UD_Pali-PaliCanon is the first UD-native treebank for the manual annotation of sentences from [the Pāli Canon](https://en.wikipedia.org/wiki/Pali_Canon).
 
 # Description
 
-The Pāli Canon is the sacred literature of Theravāda Buddhism.
-We take as our source the Public Domain, Mahāsaṅgīti edition [widely available online](https://tipitaka2500.github.io/), though other editions are also Public Domain and are broadly similar.
+The Pāli Canon is Theravāda Buddhism's closed corpus of scripture. 
+In this repository, we take as our source the Public Domain, Mahāsaṅgīti edition [widely available online](https://tipitaka2500.github.io/), though other editions are also available and are broadly similar.
 
 Following [the UD guidelines for Pāli annotation](https://universaldependencies.org/pi), we strip out all punctuation and normalize the text to the IAST format, i.e. we represent the *niggahīta* with an m-underdot ("ṃ").
 Because the extant editions inconsistently use punctuation, we do not naively trust their punctuation for sentence tokenization but rather split our text into sentences by hand based on syntax.
 We prefer small, syntactically valid sentences over run-ons wherever possible.
 Instead of punctuation, UD Pāli uses a capital letter to represent the start of a new sentence.
 
-For sentence ids, we use SuttaCentral's [segment ids](https://suttacentral.net/numbering?lang=en).
-When we split one SuttaCentral segment into multiple sentences, we append `_1`, `_2`, etc to the end of the segment id to mark its order within the segment.
+For sentence ids, we use SuttaCentral's [segment ids](https://suttacentral.net/numbering?lang=en), which often contain a single sentence.
+When we split one SuttaCentral segment into multiple sentences, we append `_1`, `_2`, etc to the end of the segment id to mark the sentence's order within the segment.
 
-This treebank is still a work-in-progress and is being actively updated and expanded on a regular basis.
-We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences from the Mahāpadānasutta (DN 14).
+This treebank is still a work-in-progress and is being actively updated and expanded.
+We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences all drawn from [the Mahāpadānasutta](https://tipitaka2500.github.io/tipitaka/7D/1/1.2.html) ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=linebyline&reference=main&script=latin)).
 
 # AI Policy
 
