@@ -1,0 +1,3210 @@
+# sent_id = dn14:1.4.1
+# gretil_sent_id = dn14_4_1
+# text = Ito so bhikkhave ekanavutikappe yaṃ vipassī bhagavā arahaṃ sammāsambuddho loke udapādi
+1	Ito	eti	VERB	_	_	0	root	_	_
+2	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4-5	ekanavutikappe	_	_	_	_	_	_	_	_
+4	ekanavuti	ekanavuti	NUM	_	_	5	compound:kd	_	_
+5	kappe	kappa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+6	yaṃ	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	_
+7	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+8	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+9	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10-11	sammāsambuddho	_	_	_	_	_	_	_	_
+10	sammā	sammā	ADV	_	_	11	compound:kd	_	_
+11	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+12	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+13	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+
+# sent_id = dn14:1.7.6
+# gretil_sent_id = dn14_4_6
+# text = Kassapassa bhikkhave bhagavato arahato sammāsambuddhassa vīsativassasahassāni āyuppamāṇaṃ ahosi
+1	Kassapassa	kassapa	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-9	vīsativassasahassāni	_	_	_	_	_	_	_	_
+7	vīsati	vīsati	NUM	_	NumType=Card	8	compound:dg	_	_
+8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
+9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
+10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
+10	āyu	āyu	NOUN	_	_	11	compound:tp	_	_
+11	ppamāṇaṃ	pamāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+12	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+
+# sent_id = dn14:1.6.1
+# gretil_sent_id = dn14_6_1
+# text = Vipassī bhikkhave bhagavā arahaṃ sammāsambuddho koṇḍañño gottena ahosi
+1	Vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	koṇḍañño	koṇḍañña	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.6.2
+# gretil_sent_id = dn14_6_2
+# text = Sikhī bhikkhave bhagavā arahaṃ sammāsambuddho koṇḍañño gottena ahosi
+1	Sikhī	sikhin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	koṇḍañño	koṇḍañña	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.6.3
+# gretil_sent_id = dn14_6_3
+# text = Vessabhū bhikkhave bhagavā arahaṃ sammāsambuddho koṇḍañño gottena ahosi
+1	Vessabhū	vessabhū	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	koṇḍañño	koṇḍañña	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.6.4
+# gretil_sent_id = dn14_6_4
+# text = Kakusandho bhikkhave bhagavā arahaṃ sammāsambuddho kassapo gottena ahosi
+1	Kakusandho	kakusandha	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	kassapo	kassapa	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.6.5
+# gretil_sent_id = dn14_6_5
+# text = Koṇāgamano bhikkhave bhagavā arahaṃ sammāsambuddho kassapo gottena ahosi
+1	Koṇāgamano	koṇāgamana	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	kassapo	kassapa	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	xcomp	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	nmod	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.6.6
+# gretil_sent_id = dn14_6_6
+# text = Kassapo bhikkhave bhagavā arahaṃ sammāsambuddho kassapo gottena ahosi
+1	Kassapo	kassapa	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	kassapo	kassapa	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.6.7
+# gretil_sent_id = dn14_6_7
+# text = Ahaṃ bhikkhave etarahi arahaṃ sammāsambuddho gotamo gottena ahosiṃ
+1	Ahaṃ	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	etarahi	etarahi	ADV	_	_	7	advmod	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	gotamo	gotama	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosiṃ	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.7.1
+# gretil_sent_id = dn14_7_1
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa asītivassasahassāni āyuppamāṇaṃ ahosi
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-9	asītivassasahassāni	_	_	_	_	_	_	_	_
+7	asīti	asīti	NUM	_	NumType=Card	8	compound:dg	_	_
+8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
+9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
+10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
+10	āyu	āyu	NOUN	_	_	11	compound:tp	_	_
+11	pamāṇaṃ	pamāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+12	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+
+# sent_id = dn14:1.7.2
+# gretil_sent_id = dn14_7_2
+# text = Sikhissa bhikkhave bhagavato arahato sammāsambuddhassa sattativassasahassāni āyuppamāṇaṃ ahosi
+1	Sikhissa	sikhin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-9	sattativassasahassāni	_	_	_	_	_	_	_	_
+7	sattati	sattati	NUM	_	NumType=Card	8	compound:dg	_	_
+8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
+9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
+10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
+10	āyu	āyu	NOUN	_	_	11	compound:tp	_	_
+11	pamāṇaṃ	pamāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+12	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+
+# sent_id = dn14:1.7.3
+# gretil_sent_id = dn14_7_3
+# text = Vessabhussa bhikkhave bhagavato arahato sammāsambuddhassa saṭṭhivassasahassāni āyuppamāṇaṃ ahosi
+1	Vessabhussa	vessabhū	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-9	saṭṭhivassasahassāni	_	_	_	_	_	_	_	_
+7	saṭṭhi	saṭṭhi	NUM	_	NumType=Card	8	compound:dg	_	_
+8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
+9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
+10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
+10	āyu	āyu	NOUN	_	_	11	compound:tp	_	_
+11	pamāṇaṃ	pamāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+12	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+
+# sent_id = dn14:1.7.7_1
+# gretil_sent_id = dn14_7_7
+# text = Mayhaṃ bhikkhave etarahi appakaṃ āyuppamāṇaṃ parittaṃ lahukaṃ
+1	Mayhaṃ	amha	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	_
+3	etarahi	etarahi	ADV	_	_	4	advmod	_	_
+4	appakaṃ	appaka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5-6	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
+5	āyu	āyu	NOUN	_	_	6	compound:tp	_	_
+6	pamāṇaṃ	pamāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+7	parittaṃ	paritta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+8	lahukaṃ	lahuka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+
+# sent_id = dn14:1.7.7_2
+# gretil_sent_id = dn14_7_8
+# text = Yo ciraṃ jīvati so vassasataṃ appaṃ vā bhiyyo
+1	Yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+2	ciraṃ	cira	ADV	_	_	3	advmod	_	_
+3	jīvati	jīvati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+4	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+5-6	vassasataṃ	_	_	_	_	_	_	_	_
+5	vassa	vassa	NOUN	_	_	6	compound:tp	_	_
+6	sataṃ	sata	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	3	obl	_	_
+7	appaṃ	appa	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	_
+8	vā	vā	CCONJ	_	_	9	cc	_	_
+9	bhiyyo	bhiyyo	ADV	_	_	7	conj	_	_
+
+# sent_id = dn14:1.8.1
+# gretil_sent_id = dn14_8_1
+# text = Vipassī bhikkhave bhagavā arahaṃ sammāsambuddho pāṭaliyā mūle abhisambuddho
+1	Vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	pāṭaliyā	pāṭalī	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.8.2
+# gretil_sent_id = dn14_8_2
+# text = Sikhī bhikkhave bhagavā arahaṃ sammāsambuddho puṇḍarīkassa mūle abhisambuddho
+1	Sikhī	sikhin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	puṇḍarīkassa	puṇḍarīka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.8.3
+# gretil_sent_id = dn14_8_3
+# text = Vessabhū bhikkhave bhagavā arahaṃ sammāsambuddho sālassa mūle abhisambuddho
+1	Vessabhū	vessabhū	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	sālassa	sāla	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.8.4
+# gretil_sent_id = dn14_8_4
+# text = Kakusandho bhikkhave bhagavā arahaṃ sammāsambuddho sirīsassa mūle abhisambuddho
+1	Kakusandho	kakusandha	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	sirīsassa	sirīsa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.8.5
+# gretil_sent_id = dn14_8_5
+# text = Koṇāgamano bhikkhave bhagavā arahaṃ sammāsambuddho udumbarassa mūle abhisambuddho
+1	Koṇāgamano	koṇāgamana	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	udumbarassa	udumbara	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.8.6
+# gretil_sent_id = dn14_8_6
+# text = Kassapo bhikkhave bhagavā arahaṃ sammāsambuddho nigrodhassa mūle abhisambuddho
+1	Kassapo	kassapa	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	nigrodhassa	nigrodha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.8.7
+# gretil_sent_id = dn14_8_7
+# text = Ahaṃ bhikkhave etarahi arahaṃ sammāsambuddho assatthassa mūle abhisambuddho
+1	Ahaṃ	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	etarahi	etarahi	ADV	_	_	9	advmod	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	assatthassa	assattha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.9.1
+# gretil_sent_id = dn14_9_1
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa khaṇḍatissaṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	khaṇḍatissaṃ	_	_	_	_	_	_	_	_
+7	khaṇḍa	khaṇḍa	PROPN	_	_	8	compound:dv	_	_
+8	tissaṃ	tissa	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.9.2
+# gretil_sent_id = dn14_9_2
+# text = Sikhissa bhikkhave bhagavato arahato sammāsambuddhassa abhibhūsambhavaṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Sikhissa	sikhin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	abhibhūsambhavaṃ	_	_	_	_	_	_	_	_
+7	abhibhū	abhibhū	PROPN	_	_	8	compound:dv	_	_
+8	sambhavaṃ	sambhava	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.9.3
+# gretil_sent_id = dn14_9_3
+# text = Vessabhussa bhikkhave bhagavato arahato sammāsambuddhassa soṇuttaraṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Vessabhussa	vessabhū	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	soṇuttaraṃ	_	_	_	_	_	_	_	_
+7	soṇa	soṇa	PROPN	_	_	8	compound:dv	_	_
+8	uttaraṃ	uttara	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.9.4
+# gretil_sent_id = dn14_9_4
+# text = Kakusandhassa bhikkhave bhagavato arahato sammāsambuddhassa vidhurasañjīvaṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Kakusandhassa	kakusandha	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	vidhurasañjīvaṃ	_	_	_	_	_	_	_	_
+7	vidhura	vidhura	PROPN	_	_	8	compound:dv	_	_
+8	sañjīvaṃ	sañjīva	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:dv	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.9.5
+# gretil_sent_id = dn14_9_5
+# text = Koṇāgamanassa bhikkhave bhagavato arahato sammāsambuddhassa bhiyyosuttaraṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Koṇāgamanassa	koṇāgamana	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	bhiyyosuttaraṃ	_	_	_	_	_	_	_	_
+7	bhiyyos	bhiyyos	PROPN	_	_	8	compound:dv	_	_
+8	uttaraṃ	uttara	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.9.6
+# gretil_sent_id = dn14_9_6
+# text = Kassapassa bhikkhave bhagavato arahato sammāsambuddhassa tissabhāradvājaṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Kassapassa	kassapa	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	tissabhāradvājaṃ	_	_	_	_	_	_	_	_
+7	tissa	tissa	PROPN	_	_	8	compound:dv	_	_
+8	bhāradvājaṃ	bhāradvāja	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.9.7
+# gretil_sent_id = dn14_9_7
+# text = Mayhaṃ bhikkhave etarahi sāriputtamoggallānaṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Mayhaṃ	amha	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	etarahi	etarahi	ADV	_	_	9	advmod	_	_
+4-5	sāriputtamoggallānaṃ	_	_	_	_	_	_	_	_
+4	sāriputta	sāriputta	PROPN	_	_	5	compound:dv	_	_
+5	moggallānaṃ	moggallāna	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+6	nāma	nāma	PART	_	_	5	advmod	_	_
+7-8	sāvakayugaṃ	_	_	_	_	_	_	_	_
+7	sāvaka	sāvaka	NOUN	_	_	8	compound:tp	_	_
+8	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	appos	_	_
+9	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	12	amod	_	_
+11-12	bhaddayugaṃ	_	_	_	_	_	_	_	_
+11	bhadda	bhadda	ADJ	_	_	12	compound:kd	_	_
+12	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	appos	_	_
+
+# sent_id = dn14:1.10.1_1
+# gretil_sent_id = dn14_10_1
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa tayo sāvakānaṃ sannipātā ahesuṃ
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
+8	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+9	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = dn14:1.10.1_2
+# gretil_sent_id = dn14_10_2
+# text = Eko sāvakānaṃ sannipāto ahosi aṭṭhasaṭṭhibhikkhusatasahassaṃ
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5-8	aṭṭhasaṭṭhibhikkhusatasahassaṃ	_	_	_	_	_	_	_	_
+5	aṭṭhasaṭṭhi	aṭṭhasaṭṭhi	NUM	_	NumType=Card	6	compound:dg	_	_
+6	bhikkhu	bhikkhu	NOUN	_	_	7	compound:tp	_	_
+7	sata	sata	NUM	_	NumType=Card	8	compound:dg	_	_
+8	sahassaṃ	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	4	xcomp	_	_
+
+# sent_id = dn14:1.10.1_3
+# gretil_sent_id = dn14_10_3
+# text = Eko sāvakānaṃ sannipāto ahosi bhikkhusatasahassaṃ
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5-7	bhikkhusatasahassaṃ	_	_	_	_	_	_	_	_
+5	bhikkhu	bhikkhu	NOUN	_	_	6	compound:tp	_	_
+6	sata	sata	NUM	_	NumType=Card	7	compound:dg	_	_
+7	sahassaṃ	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	4	xcomp	_	_
+
+# sent_id = dn14:1.10.1_4
+# gretil_sent_id = dn14_10_4
+# text = Eko sāvakānaṃ sannipāto ahosi asītibhikkhusahassāni
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5-7	asītibhikkhusahassāni	_	_	_	_	_	_	_	_
+5	asīti	asīti	NUM	_	NumType=Card	6	compound:dg	_	_
+6	bhikkhu	bhikkhu	NOUN	_	_	7	compound:tp	_	_
+7	sahassāni	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	4	xcomp	_	_
+
+# sent_id = dn14:1.10.1_5
+# gretil_sent_id = dn14_10_5
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṃ sannipātā ahesuṃ sabbesaṃyeva khīṇāsavānaṃ
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	15	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	ime	ayaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
+9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	nsubj	_	_
+10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	appos	_	_
+11	ahesuṃ	bhavati	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
+12	sabbesaṃ	sabba	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+13	yeva	eva	PART	_	_	12	discourse	_	_
+14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
+14	khīṇa	khīṇa	ADJ	_	_	15	compound:kd	_	_
+15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = dn14:1.10.2_1
+# gretil_sent_id = dn14_10_6
+# text = Sikhissa bhikkhave bhagavato arahato sammāsambuddhassa tayo sāvakānaṃ sannipātā ahesuṃ
+1	Sikhissa	sikhin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
+8	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+9	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = dn14:1.10.2_2
+# gretil_sent_id = dn14_10_7
+# text = Eko sāvakānaṃ sannipāto ahosi bhikkhusatasahassaṃ
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5-7	bhikkhusatasahassaṃ	_	_	_	_	_	_	_	_
+5	bhikkhu	bhikkhu	NOUN	_	_	6	compound:tp	_	_
+6	sata	sata	NUM	_	NumType=Card	7	compound:dg	_	_
+7	sahassaṃ	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	4	xcomp	_	_
+
+# sent_id = dn14:1.10.2_3
+# gretil_sent_id = dn14_10_8
+# text = Eko sāvakānaṃ sannipāto ahosi asītibhikkhusahassāni
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5-7	asītibhikkhusahassāni	_	_	_	_	_	_	_	_
+5	asīti	asīti	NUM	_	NumType=Card	7	compound:dg	_	_
+6	bhikkhu	bhikkhu	NOUN	_	Gender=Masc	7	compound:tp	_	_
+7	sahassāni	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	4	xcomp	_	_
+
+# sent_id = dn14:1.10.2_4
+# gretil_sent_id = dn14_10_9
+# text = Eko sāvakānaṃ sannipāto ahosi sattatibhikkhusahassāni
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5-7	sattatibhikkhusahassāni	_	_	_	_	_	_	_	_
+5	sattati	sattati	NUM	_	NumType=Card	6	compound:dg	_	_
+6	bhikkhu	bhikkhu	NOUN	_	_	7	compound:tp	_	_
+7	sahassāni	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	4	xcomp	_	_
+
+# sent_id = dn14:1.10.2_5
+# gretil_sent_id = dn14_10_10
+# text = Sikhissa bhikkhave bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṃ sannipātā ahesuṃ sabbesaṃyeva khīṇāsavānaṃ
+1	Sikhissa	sikhin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	15	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	ime	ayaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	10	nummod	_	_
+9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+11	ahesuṃ	bhavati	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
+12	sabbesaṃ	sabba	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+13	yeva	eva	PART	_	_	12	discourse	_	_
+14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
+14	khīṇa	khīṇa	ADJ	_	_	15	compound:kd	_	_
+15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = dn14:1.10.4_1
+# gretil_sent_id = dn14_10_11
+# text = Kakusandhassa bhikkhave bhagavato arahato sammāsambuddhassa eko sāvakānaṃ sannipāto ahosi cattālīsabhikkhusahassāni
+1	Kakusandhassa	kakusandha	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	9	nummod	_	_
+8	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+9	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11-13	cattālīsabhikkhusahassāni	_	_	_	_	_	_	_	_
+11	cattālīsa	cattālīsa	NUM	_	NumType=Card	12	compound:dg	_	_
+12	bhikkhu	bhikkhu	NOUN	_	_	13	compound:tp	_	_
+13	sahassāni	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	10	xcomp	_	_
+
+# sent_id = dn14:1.10.7_1
+# gretil_sent_id = dn14_10_12
+# text = Mayhaṃ bhikkhave etarahi eko sāvakānaṃ sannipāto ahosi aḍḍhateḷasāni bhikkhusatāni
+1	Mayhaṃ	amha	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+3	etarahi	etarahi	ADV	_	_	8	advmod	_	_
+4	eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	6	nummod	_	_
+5	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+6	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8-9	aḍḍhateḷasāni	_	_	_	_	_	_	_	_
+8	aḍḍha	aḍḍha	NUM	_	NumType=Card	9	compound:dg	_	_
+9	teḷasāni	teḷasa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	11	compound:dg	_	_
+10	bhikkhu	bhikkhu	NOUN	_	_	11	compound:tp	_	SpaceAfter=No
+11	satāni	sata	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	7	xcomp	_	_
+
+# sent_id = dn14:1.16.1
+# gretil_sent_id = dn14_16_1
+# text = Ito so bhikkhave ekanavutikappe yaṃ vipassī bhagavā arahaṃ sammāsambuddho loke udapādi
+1	Ito	ito	ADV	_	_	13	advmod	_	_
+2	so	tad	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	13	vocative	_	_
+4-5	ekanavutikappe	_	_	_	_	_	_	_	_
+4	ekanavuti	ekanavuti	NUM	_	NumType=Card	5	compound:dg	_	_
+5	kappe	kappa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+6	yaṃ	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	_
+7	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+8	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+9	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10-11	sammāsambuddho	_	_	_	_	_	_	_	_
+10	sammā	sammā	ADV	_	_	11	compound:kd	_	_
+11	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+12	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+13	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.16.2_1
+# gretil_sent_id = dn14_16_2
+# text = Vipassī bhikkhave bhagavā arahaṃ sammāsambuddho khattiyo jātiyā ahosi
+1	Vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	khattiyo	khattiya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	jātiyā	jāti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.16.2_2
+# gretil_sent_id = dn14_16_3
+# text = Khattiyakule udapādi
+1-2	Khattiyakule	_	_	_	_	_	_	_	_
+1	khattiya	khattiya	NOUN	_	_	2	compound:tp	_	_
+2	kule	kula	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.16.3
+# gretil_sent_id = dn14_16_4
+# text = Vipassī bhikkhave bhagavā arahaṃ sammāsambuddho koṇḍañño gottena ahosi
+1	Vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	koṇḍañño	koṇḍañña	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	gottena	gotta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.16.4
+# gretil_sent_id = dn14_16_5
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa asītivassasahassāni āyuppamāṇaṃ ahosi
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-9	asītivassasahassāni	_	_	_	_	_	_	_	_
+7	asīti	asīti	NUM	_	NumType=Card	9	compound:dg	_	_
+8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
+9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
+10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
+10	āyu	āyu	NOUN	_	_	11	compound:tp	_	_
+11	ppamāṇaṃ	pamāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+12	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+
+# sent_id = dn14:1.16.5
+# gretil_sent_id = dn14_16_6
+# text = Vipassī bhikkhave bhagavā arahaṃ sammāsambuddho pāṭaliyā mūle abhisambuddho
+1	Vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	_
+3	bhagavā	bhagavant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddho	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddho	sambuddha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	pāṭaliyā	pāṭalī	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+8	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	abhisambuddho	abhisambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:1.16.6
+# gretil_sent_id = dn14_16_7
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa khaṇḍatissaṃ nāma sāvakayugaṃ ahosi aggaṃ bhaddayugaṃ
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	15	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7-8	khaṇḍatissaṃ	_	_	_	_	_	_	_	_
+7	khaṇḍa	khaṇḍa	PROPN	_	_	8	compound:dv	_	_
+8	tissaṃ	tissa	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+9	nāma	nāman	PART	_	_	8	advmod	_	_
+10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
+10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
+11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+12	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	_
+13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
+14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
+15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.16.7
+# gretil_sent_id = dn14_16_8
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa tayo sāvakānaṃ sannipātā ahesuṃ
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
+8	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+9	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.16.8_1
+# gretil_sent_id = dn14_16_9
+# text = Eko sāvakānaṃ sannipāto ahosi aṭṭhasaṭṭhibhikkhusatasahassaṃ
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+4	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+5-8	aṭṭhasaṭṭhibhikkhusatasahassaṃ	_	_	_	_	_	_	_	_
+5	aṭṭhasaṭṭhi	aṭṭhasaṭṭhi	NUM	_	NumType=Card	8	compound:dg	_	_
+6	bhikkhu	bhikkhu	NOUN	_	_	8	compound:tp	_	_
+7	sata	sata	NUM	_	NumType=Card	8	compound:dg	_	_
+8	sahassaṃ	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	0	root	_	_
+
+# sent_id = dn14:1.16.8_2
+# gretil_sent_id = dn14_16_10
+# text = Eko sāvakānaṃ sannipāto ahosi bhikkhusatasahassaṃ
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+5-7	bhikkhusatasahassaṃ	_	_	_	_	_	_	_	_
+5	bhikkhu	bhikkhu	NOUN	_	_	7	compound:tp	_	_
+6	sata	sata	NUM	_	NumType=Card	7	compound:tp	_	_
+7	sahassaṃ	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	0	root	_	_
+
+# sent_id = dn14:1.16.8_3
+# gretil_sent_id = dn14_16_11
+# text = Eko sāvakānaṃ sannipāto ahosi asītibhikkhusahassāni
+1	Eko	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
+2	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	sannipāto	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+5-7	asītibhikkhusahassāni	_	_	_	_	_	_	_	_
+5	asīti	asīti	NUM	_	NumType=Card	7	compound:dg	_	_
+6	bhikkhu	bhikkhu	NOUN	_	_	7	compound:tp	_	_
+7	sahassāni	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
+
+# sent_id = dn14:1.16.9
+# gretil_sent_id = dn14_16_12
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṃ sannipātā ahesuṃ sabbesaṃyeva khīṇāsavānaṃ
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	11	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	ime	ima	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	10	nummod	_	_
+9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+13	yeva	eva	PART	_	_	12	advmod	_	_
+14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
+14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	15	compound:kd	_	_
+15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+
+# sent_id = dn14:1.16.10
+# gretil_sent_id = dn14_16_13
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa asoko nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	asoko	asoka	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+8	nāma	nāma	PART	_	_	7	advmod	_	_
+9	bhikkhu	bhikkhu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10	upaṭṭhāko	upaṭṭhāka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+11	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+12-13	aggupaṭṭhāko	_	_	_	_	_	_	_	_
+12	agga	agga	ADJ	_	_	13	compound:kd	_	_
+13	upaṭṭhāko	upaṭṭhāka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+
+# sent_id = dn14:1.16.11
+# gretil_sent_id = dn14_16_14
+# text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa bandhumā nāma rājā pitā ahosi
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
+5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
+6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+7	bandhumā	bandhumant	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+8	nāma	nāma	PART	_	_	7	advmod	_	_
+9	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10	pitā	pitar	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+11	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+
+# sent_id = dn14:1.16.12
+# gretil_sent_id = dn14_16_15
+# text = Bandhumatī nāma devī mātā ahosi janetti
+1	Bandhumatī	bandhumatī	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	nāma	nāma	PART	_	_	1	advmod	_	_
+3	devī	devī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+4	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	janetti	janettī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	_
+
+# sent_id = dn14:1.16.13
+# gretil_sent_id = dn14_16_16
+# text = Bandhumassa rañño bandhumatī nāma nagaraṃ rājadhānī ahosi
+1	Bandhumassa	bandhumant	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+2	rañño	rājan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+3	bandhumatī	bandhumatī	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+4	nāma	nāma	PART	_	_	3	advmod	_	_
+5	nagaraṃ	nagara	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	appos	_	_
+6-7	rājadhānī	_	_	_	_	_	_	_	_
+6	rāja	rājan	NOUN	_	_	7	compound:tp	_	_
+7	dhānī	dhānī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+8	ahosi	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+
+# sent_id = dn14:1.17.1
+# gretil_sent_id = dn14_17_1
+# text = Atha kho bhikkhave vipassī bodhisatto tusitā kāyā cavitvā sato sampajāno mātukucchiṃ okkami
+1	Atha	atha	ADV	_	_	13	advmod	_	_
+2	kho	kho	PART	_	_	13	advmod	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	13	vocative	_	_
+4	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	tusitā	tusita	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	7	amod	_	_
+7	kāyā	kāya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	cavitvā	cavati	VERB	_	VerbForm=Conv	13	advcl	_	_
+9	sato	sarati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+10	sampajāno	sampajānāti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+11-12	mātukucchiṃ	_	_	_	_	_	_	_	_
+11	mātu	mātar	NOUN	_	_	12	compound:tp	_	_
+12	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl:goal	_	_
+13	okkami	okkamati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.17.2
+# gretil_sent_id = dn14_17_2
+# text = Ayamettha dhammatā
+1	Ayam	imaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.17.3
+# gretil_sent_id = dn14_18_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto tusitā kāyā cavitvā mātukucchiṃ okkamati
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	PronType=Rel	11	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+6	tusitā	tusita	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	7	amod	_	_
+7	kāyā	kāya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	cavitvā	cavati	VERB	_	VerbForm=Conv	11	advcl	_	_
+9-10	mātukucchiṃ	_	_	_	_	_	_	_	_
+9	mātu	mātar	NOUN	_	_	10	compound:tp	_	_
+10	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obl:goal	_	_
+11	okkamati	okkamati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+
+# sent_id = dn14:1.17.4
+# gretil_sent_id = dn14_18_2
+# text = Atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ
+1	Atha	atha	ADV	_	_	19	advmod	_	_
+2-3	sadevake	_	_	_	_	_	_	_	_
+2	sa	sa	ADJ	_	_	3	compound:bv	_	_
+3	devake	devaka	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
+4	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+5-6	samārake	_	_	_	_	_	_	_	_
+5	sa	sa	ADJ	_	_	6	compound:bv	_	_
+6	mārake	māraka	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
+7-8	sabrahmake	_	_	_	_	_	_	_	_
+7	sa	sa	ADJ	_	_	8	compound:bv	_	_
+8	brahmake	brahmaka	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
+9-11	sassamaṇabrāhmaṇiyā	_	_	_	_	_	_	_	_
+9	sa	sa	ADJ	_	_	11	compound:bv	_	_
+10	samaṇa	samaṇa	NOUN	_	_	11	compound:dv	_	_
+11	brāhmaṇiyā	brāhmaṇī	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	12	amod	_	_
+12	pajāya	pajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+13-15	sadevamanussāya	_	_	_	_	_	_	_	_
+13	sa	sa	ADJ	_	_	15	compound:bv	_	_
+14	deva	deva	NOUN	_	_	15	compound:dv	_	_
+15	manussāya	manussa	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	12	amod	_	_
+16	appamāṇo	appamāṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	18	amod	_	_
+17	uḷāro	uḷāra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	18	amod	_	_
+18	obhāso	obhāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+19	pātubhavati	pātubhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	atikkamm	atikkamati	VERB	_	VerbForm=Conv|Voice=Act	19	advcl	_	SpaceAfter=No
+21	eva	eva	PART	_	_	20	discourse	_	_
+22	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+23-24	devānubhāvaṃ	_	_	_	_	_	_	_	_
+23	deva	deva	NOUN	_	_	24	compound:tp	_	_
+24	ānubhāvaṃ	ānubhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+
+# sent_id = dn14:1.17.5
+# gretil_sent_id = dn14_18_3
+# text = Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapime candimasūriyā evaṃmahiddhikā evaṃmahānubhāvā ābhāya nānubhonti tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ
+1	Yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	5	acl:relcl	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	tā	tad	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+4-5	lokantarikā	_	_	_	_	_	_	_	_
+4	loka	loka	NOUN	_	_	5	compound:tp	_	_
+5	antarikā	antarikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	30	dislocated	_	_
+6	aghā	agha	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+7	asaṃvutā	asaṃvuta	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+8	andhakārā	andhakāra	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+9-10	andhakāratimisā	_	_	_	_	_	_	_	_
+9	andhakāra	andhakāra	NOUN	_	_	10	compound:tp	_	_
+10	timisā	timisā	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+11	yattha	yattha	ADV	_	PronType=Rel	24	advmod	_	SpaceAfter=No
+12	p	api	PART	_	_	11	discourse	_	SpaceAfter=No
+13	ime	ima	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+14-15	candimasūriyā	_	_	_	_	_	_	_	_
+14	candima	candimas	NOUN	_	_	15	compound:dv	_	_
+15	sūriyā	sūriya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
+16-18	evaṃmahiddhikā	_	_	_	_	_	_	_	_
+16	evaṃ	evaṃ	ADV	_	_	18	compound:kd	_	_
+17	mah	mahant	ADJ	_	_	18	compound:kd	_	_
+18	iddhikā	iddhika	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	15	amod	_	_
+19-21	evaṃmahānubhāvā	_	_	_	_	_	_	_	_
+19	evaṃ	evaṃ	ADV	_	_	21	compound:kd	_	_
+20	mahā	mahant	ADJ	_	_	21	compound:kd	_	_
+21	anubhāvā	ānubhāva	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	15	amod	_	_
+22	ābhāya	ābhā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	24	obl	_	_
+23	nā	na	PART	_	Polarity=Neg	24	advmod	_	SpaceAfter=No
+24	nubhonti	anubhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	_
+25	tattha	tattha	ADV	_	PronType=Dem	30	advmod	_	SpaceAfter=No
+26	pi	api	PART	_	_	25	advmod	_	_
+27	appamāṇo	appamāṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	29	amod	_	_
+28	uḷāro	uḷāra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	29	amod	_	_
+29	obhāso	obhāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+30	pātubhavati	pātubhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+31	atikkamm	atikkamati	VERB	_	VerbForm=Conv	30	advcl	_	SpaceAfter=No
+32	eva	eva	PART	_	_	31	advmod	_	_
+33	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	35	nmod	_	_
+34-35	devānubhāvaṃ	_	_	_	_	_	_	_	_
+34	deva	deva	NOUN	_	_	35	compound:tp	_	_
+35	ānubhāvaṃ	ānubhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	31	obj	_	_
+
+# sent_id = dn14:1.17.6_1
+# gretil_sent_id = dn14_18_4
+# text = Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti
+1	Ye	yad	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	det	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	tattha	tattha	ADV	_	PronType=Dem	5	advmod	_	_
+4	sattā	satta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+5	upapannā	upapajjati	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	_
+6	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	12	nsubj	_	SpaceAfter=No
+7	pi	api	PART	_	_	6	discourse	_	_
+8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
+9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
+10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
+10	aññaṃ	añña	PRON	_	PronType=Rcp	11	compound:dv	_	_
+11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
+12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.17.6_2
+# gretil_sent_id = dn14_18_5
+# text = Aññepi kira bho santi sattā idhūpapannāti
+1	Aññe	añña	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	kira	kira	PART	_	_	8	discourse	_	_
+4	bho	bho	PART	_	_	8	discourse	_	_
+5	santi	atthi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+6	sattā	satta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+7	idh	idha	ADV	_	_	8	advmod	_	SpaceAfter=No
+8	ūpapannā	upapajjati	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+9	ti	iti	PART	_	_	8	mark	_	_
+
+# sent_id = dn14:1.17.7_1
+# gretil_sent_id = dn14_18_6
+# text = Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati
+1	Ayañ	ima	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+2	ca	ca	CCONJ	_	_	7	cc	_	_
+3-4	dasasahassī	_	_	_	_	_	_	_	_
+3	dasa	dasa	NUM	_	NumType=Card	4	compound:dg	_	_
+4	sahassī	sahassī	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	6	nummod	_	_
+5-6	lokadhātu	_	_	_	_	_	_	_	_
+5	loka	loka	NOUN	_	_	6	compound:tp	_	_
+6	dhātu	dhātu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	saṅkampati	saṅkampati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	sampakampati	sampakampati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+9	sampavedhati	sampavedhati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+
+# sent_id = dn14:1.17.7_2
+# gretil_sent_id = dn14_18_7
+# text = Appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvaṃ
+1	Appamāṇo	appamāṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+2	ca	ca	CCONJ	_	_	6	cc	_	_
+3	uḷāro	uḷāra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+4	obhāso	obhāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	pātubhavati	pātubhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	atikkamm	atikkamati	VERB	_	VerbForm=Conv	6	advcl	_	SpaceAfter=No
+8	eva	eva	PART	_	_	7	discourse	_	_
+9	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+10-11	devānubhāvaṃ	_	_	_	_	_	_	_	_
+10	deva	deva	NOUN	_	_	11	compound:tp	_	_
+11	ānubhāvaṃ	ānubhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = dn14:1.17.8
+# gretil_sent_id = dn14_18_9
+# text = Ayamettha dhammatā
+1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.17.9_1
+# gretil_sent_id = dn14_19_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchiṃ okkanto hoti cattāro naṃ devaputtā catuddisaṃ rakkhāya upagacchanti
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	PronType=Rel	8	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchiṃ	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl:goal	_	_
+8	okkanto	okkamati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	advcl	_	_
+9	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+10	cattāro	catur	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	13	nummod	_	_
+11	naṃ	naṃ	PART	_	_	17	discourse	_	_
+12-13	devaputtā	_	_	_	_	_	_	_	_
+12	deva	deva	NOUN	_	_	13	compound:tp	_	_
+13	puttā	putta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
+14-15	catuddisaṃ	_	_	_	_	_	_	_	_
+14	catu	catur	NUM	_	NumType=Card	15	compound:dg	_	_
+15	disaṃ	disā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+16	rakkhāya	rakkhā	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	_
+17	upagacchanti	upagacchati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+
+# sent_id = dn14:1.17.9_2
+# gretil_sent_id = dn14_19_2
+# text = Mā naṃ bodhisattaṃ vā bodhisattamātaraṃ vā manusso vā amanusso vā koci vā viheṭhesīti
+1	Mā	mā	PART	_	Mood=Imp|Polarity=Neg	14	advmod	_	_
+2	naṃ	tad	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	bodhisattaṃ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+4	vā	vā	CCONJ	_	_	3	cc	_	_
+5-6	bodhisattamātaraṃ	_	_	_	_	_	_	_	_
+5	bodhisatta	bodhisatta	NOUN	_	_	6	compound:tp	_	_
+6	mātaraṃ	mātar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	_
+7	vā	vā	CCONJ	_	_	6	cc	_	_
+8	manusso	manussa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+9	vā	vā	CCONJ	_	_	8	cc	_	_
+10	amanusso	amanussa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+11	vā	vā	CCONJ	_	_	10	cc	_	_
+12	koci	koci	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	conj	_	_
+13	vā	vā	CCONJ	_	_	12	cc	_	_
+14	viheṭhesī	viheṭheti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+15	ti	iti	PART	_	_	14	mark	_	_
+
+# sent_id = dn14:1.17.10
+# gretil_sent_id = dn14_19_3
+# text = Ayamettha dhammatā
+1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.18.1
+# gretil_sent_id = dn14_20_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchiṃ okkanto hoti pakatiyā sīlavatī bodhisattamātā hoti viratā pāṇātipātā viratā adinnādānā viratā kāmesumicchācārā viratā musāvādā viratā surāmerayamajjappamādaṭṭhānā
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	_	9	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchiṃ	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+8	okkanto	okkanta	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	_
+9	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+10	pakatiyā	pakati	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	11	obl	_	_
+11	sīlavatī	sīlavant	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+12-13	bodhisattamātā	_	_	_	_	_	_	_	_
+12	bodhisatta	bodhisatta	NOUN	_	_	13	compound:tp	_	_
+13	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+16-17	pāṇātipātā	_	_	_	_	_	_	_	_
+16	pāṇā	pāṇa	NOUN	_	_	17	compound:tp	_	_
+17	tipātā	atipāta	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	_
+18	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+19-20	adinnādānā	_	_	_	_	_	_	_	_
+19	adinna	adinna	ADJ	_	_	20	compound:kd	_	_
+20	ādānā	ādāna	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	18	obl	_	_
+21	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+22	kāmesu	kāma	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
+23-24	micchācārā	_	_	_	_	_	_	_	_
+23	micchā	micchā	ADV	_	_	24	compound:kd	_	_
+24	cārā	cāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	21	obl	_	_
+25	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+26-27	musāvādā	_	_	_	_	_	_	_	_
+26	musā	musā	ADV	_	_	27	compound:kd	_	_
+27	vādā	vāda	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	25	obl	_	_
+28	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+29-33	surāmerayamajjappamādaṭṭhānā	_	_	_	_	_	_	_	_
+29	surā	surā	NOUN	_	_	33	compound:dv	_	_
+30	meraya	meraya	NOUN	_	_	33	compound:dv	_	_
+31	majja	majja	NOUN	_	_	33	compound:dv	_	_
+32	ppamāda	pamāda	NOUN	_	_	33	compound:tp	_	_
+33	ṭṭhānā	ṭhāna	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	28	obl	_	_
+
+# sent_id = dn14:1.18.2
+# gretil_sent_id = dn14_20_2
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.19.1_1
+# gretil_sent_id = dn14_21_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchiṃ okkanto hoti na bodhisattamātu purisesu mānasaṃ uppajjati kāmaguṇūpasaṃhitaṃ
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	_	9	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchiṃ	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+8	okkanto	okkanta	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	_
+9	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+10	na	na	PART	_	Polarity=Neg	14	advmod	_	_
+11-12	bodhisattamātu	_	_	_	_	_	_	_	_
+11	bodhisatta	bodhisatta	NOUN	_	_	12	compound:tp	_	_
+12	mātu	mātar	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+13	purisesu	purisa	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	15	obl	_	_
+14	mānasaṃ	mānasa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+15	uppajjati	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+16-18	kāmaguṇūpasaṃhitaṃ	_	_	_	_	_	_	_	_
+16	kāma	kāma	NOUN	_	_	17	compound:tp	_	_
+17	guṇa	guṇa	NOUN	_	_	18	compound:tp	_	_
+18	upasaṃhitaṃ	upasaṃhita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	14	amod	_	_
+
+# sent_id = dn14:1.19.1_2
+# gretil_sent_id = dn14_21_2
+# text = Anatikkamanīyā ca bodhisattamātā hoti kenaci purisena rattacittena
+1	Anatikkamanīyā	atikkamanīya	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	_
+2	ca	ca	CCONJ	_	_	1	cc	_	_
+3-4	bodhisattamātā	_	_	_	_	_	_	_	_
+3	bodhisatta	bodhisatta	NOUN	_	_	4	compound:tp	_	_
+4	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj:pass	_	_
+5	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
+6	kenaci	kaci	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	purisena	purisa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	obl:agent	_	_
+8-9	rattacittena	_	_	_	_	_	_	_	_
+8	ratta	ratta	ADJ	_	_	9	compound:tp	_	_
+9	cittena	citta	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	7	amod	_	_
+
+# sent_id = dn14:1.19.2
+# gretil_sent_id = dn14_21_3
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.20.1_1
+# gretil_sent_id = dn14_21_4
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchiṃ okkanto hoti lābhinī bodhisattamātā hoti pañcannaṃ kāmaguṇānaṃ
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	_	8	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchiṃ	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl:goal	_	_
+8	okkanto	okkanta	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	_
+9	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+10	lābhinī	lābhinī	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	ccomp	_	_
+11-12	bodhisattamātā	_	_	_	_	_	_	_	_
+11	bodhisatta	bodhisatta	NOUN	_	_	12	compound:tp	_	_
+12	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+13	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+14	pañcannaṃ	pañca	NUM	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	16	nummod	_	_
+15-16	kāmaguṇānaṃ	_	_	_	_	_	_	_	_
+15	kāma	kāma	NOUN	_	_	16	compound:tp	_	_
+16	guṇānaṃ	guṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	obl	_	_
+
+# sent_id = dn14:1.20.1_2
+# gretil_sent_id = dn14_22_3
+# text = Sā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāreti
+1	Sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	8	nsubj	_	_
+2	pañcahi	pañca	NUM	_	Case=Ins|Gender=Masc|Number=Plur|NumType=Card	4	nummod	_	_
+3-4	kāmaguṇehi	_	_	_	_	_	_	_	_
+3	kāma	kāma	NOUN	_	_	4	compound:tp	_	_
+4	guṇehi	guṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	_
+5	samappitā	samappita	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	_
+6-7	samaṅgībhūtā	_	_	_	_	_	_	_	_
+6	samaṅgī	samaṅgin	ADJ	_	_	7	compound:kd	_	_
+7	bhūtā	bhavati	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
+8	paricāreti	paricāreti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.20.2
+# gretil_sent_id = dn14_22_4
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.21.1_1
+# gretil_sent_id = dn14_23_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchiṃ okkanto hoti na bodhisattamātu kocideva ābādho uppajjati
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	_	9	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchiṃ	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl:goal	_	_
+8	okkanto	okkamati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	_
+9	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+10	na	na	PART	_	Polarity=Neg	15	advmod	_	_
+11-12	bodhisattamātu	_	_	_	_	_	_	_	_
+11	bodhisatta	bodhisatta	NOUN	_	_	12	compound:tp	_	_
+12	mātu	mātar	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+13	kocid	kaci	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	15	det	_	SpaceAfter=No
+14	eva	eva	PART	_	_	13	discourse	_	_
+15	ābādho	ābādha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+16	uppajjati	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+
+# sent_id = dn14:1.21.1_2
+# gretil_sent_id = dn14_23_2
+# text = Sukhinī bodhisattamātā hoti akilantakāyā bodhisattañca bodhisattamātā tirokucchigataṃ passati sabbaṅgapaccaṅgiṃ ahīnindriyaṃ
+1	Sukhinī	sukhinī	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2-3	bodhisattamātā	_	_	_	_	_	_	_	_
+2	bodhisatta	bodhisatta	NOUN	_	_	3	compound:tp	_	_
+3	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+5-6	akilantakāyā	_	_	_	_	_	_	_	_
+5	akilanta	akilanta	ADJ	_	Polarity=Neg	6	compound:kd	_	_
+6	kāyā	kāya	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+7	bodhisattañ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+8	ca	ca	CCONJ	_	_	13	cc	_	_
+9-10	bodhisattamātā	_	_	_	_	_	_	_	_
+9	bodhisatta	bodhisatta	NOUN	_	_	10	compound:tp	_	_
+10	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+11-13	tirokucchigataṃ	_	_	_	_	_	_	_	_
+11	tiro	tiro	ADP	_	_	13	compound:kd	_	_
+12	kucchi	kucchi	NOUN	_	_	13	compound:tp	_	_
+13	gataṃ	gacchati	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
+14	passati	passati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+15-17	sabbaṅgapaccaṅgiṃ	_	_	_	_	_	_	_	_
+15	sabba	sabba	ADJ	_	_	16	compound:kd	_	_
+16	aṅga	aṅga	NOUN	_	_	17	compound:tp	_	_
+17	paccaṅgiṃ	paccaṅgin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+18-19	ahīnindriyaṃ	_	_	_	_	_	_	_	_
+18	ahīna	ahīna	ADJ	_	_	19	compound:bv	_	_
+19	indriyaṃ	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	appos	_	_
+
+# sent_id = dn14:1.21.2_1
+# gretil_sent_id = dn14_23_3
+# text = Seyyathāpi bhikkhave maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho vippasanno anāvilo sabbākārasampanno
+1	Seyyathā	seyyathā	ADV	_	_	4	advmod	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	6	vocative	_	_
+4	maṇi	maṇi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	veḷuriyo	veḷuriya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+6	subho	subha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+7	jātimā	jātimant	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+8	aṭṭhaṃso	aṭṭhaṃsa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+9-11	suparikammakato	_	_	_	_	_	_	_	_
+9	su	su	ADV	_	_	11	compound:kd	_	_
+10	parikamma	parikamma	NOUN	_	_	11	compound:tp	_	_
+11	kato	karoti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+12	accho	accha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+13	vippasanno	vippasanna	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+14	anāvilo	anāvila	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+15-17	sabbākārasampanno	_	_	_	_	_	_	_	_
+15	sabba	sabba	ADJ	_	_	16	compound:kd	_	_
+16	ākāra	ākāra	NOUN	_	_	17	compound:tp	_	_
+17	sampanno	sampajjati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+
+# sent_id = dn14:1.21.2_2
+# gretil_sent_id = dn14_23_4
+# text = Tatrāssa suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā
+1	Tatrā	tatra	ADV	_	_	4	advmod	_	SpaceAfter=No
+2	ssa	idaṃ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	_
+3	suttaṃ	sutta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	āvutaṃ	āvuṇāti	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	nīlaṃ	nīla	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+6	vā	vā	CCONJ	_	_	5	cc	_	_
+7	pītaṃ	pīta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+8	vā	vā	CCONJ	_	_	7	cc	_	_
+9	lohitaṃ	lohita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+10	vā	vā	CCONJ	_	_	9	cc	_	_
+11	odātaṃ	odāta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+12	vā	vā	CCONJ	_	_	11	cc	_	_
+13-14	paṇḍusuttaṃ	_	_	_	_	_	_	_	_
+13	paṇḍu	paṇḍu	ADJ	_	_	14	compound:kd	_	_
+14	suttaṃ	sutta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+15	vā	vā	CCONJ	_	_	14	cc	_	_
+
+# sent_id = dn14:1.21.3_1
+# gretil_sent_id = dn14_23_5
+# text = Tamenaṃ cakkhumā puriso hatthe karitvā paccavekkheyya
+1	Tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	SpaceAfter=No
+2	enaṃ	ena	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	1	appos	_	_
+3	cakkhumā	cakkhumant	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+4	puriso	purisa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	hatthe	hattha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	karitvā	karoti	VERB	_	VerbForm=Conv	7	advcl	_	_
+7	paccavekkheyya	paccavekkhati	VERB	_	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+
+# sent_id = dn14:1.21.4_1
+# gretil_sent_id = dn14_23_8
+# text = Evameva kho bhikkhave yadā bodhisatto mātukucchiṃ okkanto hoti na bodhisattamātu kocideva ābādho uppajjati
+1	Evam	evaṃ	ADV	_	_	17	advmod	_	SpaceAfter=No
+2	eva	eva	PART	_	_	1	discourse	_	_
+3	kho	kho	PART	_	_	17	discourse	_	_
+4	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	17	vocative	_	_
+5	yadā	yadā	ADV	_	_	10	advmod	_	_
+6	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+7-8	mātukucchiṃ	_	_	_	_	_	_	_	_
+7	mātu	mātar	NOUN	_	_	8	compound:tp	_	_
+8	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl:goal	_	_
+9	okkanto	okkamati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	_
+10	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+11	na	na	PART	_	Polarity=Neg	17	advmod	_	_
+12-13	bodhisattamātu	_	_	_	_	_	_	_	_
+12	bodhisatta	bodhisatta	NOUN	_	_	13	compound:tp	_	_
+13	mātu	mātar	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+14	kocid	kaci	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	16	det	_	SpaceAfter=No
+15	eva	eva	PART	_	_	14	advmod	_	_
+16	ābādho	ābādha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+17	uppajjati	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = dn14:1.21.5
+# gretil_sent_id = dn14_23_9
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.22.1
+# gretil_sent_id = dn14_24_1
+# text = Dhammatā esā bhikkhave sattāhajāte bodhisatte bodhisattamātā kālaṃ karoti tusitaṃ kāyaṃ upapajjati
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4-5	sattāhajāte	_	_	_	_	_	_	_	_
+4	sattāha	sattāha	NOUN	_	_	5	compound:kd	_	_
+5	jāte	janati	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	_
+6	bodhisatte	bodhisatta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	nsubj	_	_
+7-8	bodhisattamātā	_	_	_	_	_	_	_	_
+7	bodhisatta	bodhisatta	NOUN	_	_	8	compound:tp	_	_
+8	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	kālaṃ	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+10	karoti	karoti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+11	tusitaṃ	tusita	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	amod	_	_
+12	kāyaṃ	kāya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl:goal	_	_
+13	upapajjati	upapajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+
+# sent_id = dn14:1.22.2
+# gretil_sent_id = dn14_24_2
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.23.1_1
+# gretil_sent_id = dn14_25_1
+# text = Dhammatā esā bhikkhave yathā aññā itthikā nava vā dasa vā māse gabbhaṃ kucchinā pariharitvā vijāyanti na hevaṃ bodhisattaṃ bodhisattamātā vijāyati
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yathā	yathā	ADV	_	PronType=Rel	15	advmod	_	_
+5	aññā	añña	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	itthikā	itthikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+7	nava	nava	NUM	_	Case=Acc|Number=Plur|NumType=Card	11	nummod	_	_
+8	vā	vā	CCONJ	_	_	7	cc	_	_
+9	dasa	dasa	NUM	_	Case=Acc|Number=Plur|NumType=Card	7	conj	_	_
+10	vā	vā	CCONJ	_	_	9	cc	_	_
+11	māse	māsa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	obl	_	_
+12	gabbhaṃ	gabbha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+13	kucchinā	kucchi	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
+14	pariharitvā	pariharati	VERB	_	VerbForm=Conv	15	advcl	_	_
+15	vijāyanti	vijāyati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+16	na	na	PART	_	Polarity=Neg	22	advmod	_	_
+17	h	hi	PART	_	_	22	discourse	_	SpaceAfter=No
+18	evaṃ	evaṃ	ADV	_	_	22	advmod	_	_
+19	bodhisattaṃ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+20-21	bodhisattamātā	_	_	_	_	_	_	_	_
+20	bodhisatta	bodhisatta	NOUN	_	_	21	compound:tp	_	_
+21	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	_
+22	vijāyati	vijāyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+
+# sent_id = dn14:1.23.1_2
+# gretil_sent_id = dn14_25_2
+# text = Daseva māsāni bodhisattaṃ bodhisattamātā kucchinā pariharitvā vijāyati
+1	Das	dasa	NUM	_	Case=Acc|Number=Plur|NumType=Card	3	nummod	_	SpaceAfter=No
+2	eva	eva	PART	_	_	1	advmod	_	_
+3	māsāni	māsa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obl	_	_
+4	bodhisattaṃ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+5-6	bodhisattamātā	_	_	_	_	_	_	_	_
+5	bodhisatta	bodhisatta	NOUN	_	_	6	compound:tp	_	_
+6	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+7	kucchinā	kucchi	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
+8	pariharitvā	pariharati	VERB	_	VerbForm=Conv	9	advcl	_	_
+9	vijāyati	vijāyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.23.2
+# gretil_sent_id = dn14_25_3
+# text = Ayamettha dhammatā
+1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.24.1_1
+# gretil_sent_id = dn14_26_1
+# text = Dhammatā esā bhikkhave yathā aññā itthikā nisinnā vā nipannā vā vijāyanti na hevaṃ bodhisattaṃ bodhisattamātā vijāyati
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yathā	yathā	ADV	_	PronType=Rel	11	advmod	_	_
+5	aññā	añña	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	itthikā	itthikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+7	nisinnā	nisīdati	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
+8	vā	vā	CCONJ	_	_	7	cc	_	_
+9	nipannā	nipajjati	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	_
+10	vā	vā	CCONJ	_	_	9	cc	_	_
+11	vijāyanti	vijāyati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+12	na	na	PART	_	Polarity=Neg	18	advmod	_	_
+13	h	hi	PART	_	_	18	discourse	_	SpaceAfter=No
+14	evaṃ	evaṃ	ADV	_	_	18	advmod	_	_
+15	bodhisattaṃ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+16-17	bodhisattamātā	_	_	_	_	_	_	_	_
+16	bodhisatta	bodhisatta	NOUN	_	_	17	compound:tp	_	_
+17	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+18	vijāyati	vijāyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+
+# sent_id = dn14:1.24.1_2
+# gretil_sent_id = dn14_26_2
+# text = Ṭhitāva bodhisattaṃ bodhisattamātā vijāyati
+1	Ṭhitā	tiṭṭhati	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	SpaceAfter=No
+2	va	eva	PART	_	_	1	discourse	_	_
+3	bodhisattaṃ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+4-5	bodhisattamātā	_	_	_	_	_	_	_	_
+4	bodhisatta	bodhisatta	NOUN	_	_	5	compound:tp	_	_
+5	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	vijāyati	vijāyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.24.2
+# gretil_sent_id = dn14_26_3
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.25.1
+# gretil_sent_id = dn14_27_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchimhā nikkhamati devā paṭhamaṃ paṭiggaṇhanti pacchā manussā
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	PronType=Rel	8	advmod	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchimhā	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchimhā	kucchi	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	nikkhamati	nikkhamati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+9	devā	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+10	paṭhamaṃ	paṭhama	ADV	_	_	11	advmod	_	_
+11	paṭiggaṇhanti	paṭigaṇhāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+12	pacchā	pacchā	ADV	_	_	13	orphan	_	_
+13	manussā	manussa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	_
+
+# sent_id = dn14:1.25.2
+# gretil_sent_id = dn14_27_2
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.29.1
+# gretil_sent_id = dn14_31_1
+# text = Dhammatā esā bhikkhave sampatijāto bodhisatto samehi pādehi patiṭṭhahitvā uttarābhimukho sattapadavītihārena gacchati setamhi chatte anudhāriyamāne sabbā ca disā anuviloketi āsabhiṃ vācaṃ bhāsati aggohamasmi lokassa jeṭṭhohamasmi lokassa seṭṭhohamasmi lokassa ayamantimā jāti natthi dāni punabbhavoti
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4-5	sampatijāto	_	_	_	_	_	_	_	_
+4	sampati	sampati	ADV	_	_	5	compound:kd	_	_
+5	jāto	jāyati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+6	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+7	samehi	sama	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	8	amod	_	_
+8	pādehi	pāda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	9	obl	_	_
+9	patiṭṭhahitvā	patiṭṭhahati	VERB	_	VerbForm=Conv	15	advcl	_	_
+10-11	uttarābhimukho	_	_	_	_	_	_	_	_
+10	uttara	uttara	ADJ	_	_	11	compound:tp	_	_
+11	abhimukho	abhimukha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	advmod	_	_
+12-14	sattapadavītihārena	_	_	_	_	_	_	_	_
+12	satta	satta	NUM	_	NumType=Card	13	compound:dg	_	_
+13	pada	pada	NOUN	_	_	14	compound:tp	_	_
+14	vītihārena	vītihāra	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+15	gacchati	gacchati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+16	setamhi	seta	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	17	amod	_	_
+17	chatte	chatta	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	18	nsubj	_	_
+18	anudhāriyamāne	anudhāreti	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	15	advcl	_	_
+19	sabbā	sabba	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	21	amod	_	_
+20	ca	ca	CCONJ	_	_	22	cc	_	_
+21	disā	disā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	22	obj	_	_
+22	anuviloketi	anuviloketi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+23	āsabhiṃ	āsabhi	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	24	amod	_	_
+24	vācaṃ	vācā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obj	_	_
+25	bhāsati	bhāsati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+26	aggo	agga	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	28	xcomp	_	SpaceAfter=No
+27	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	SpaceAfter=No
+28	asmi	atthi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	ccomp	_	_
+29	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+30	jeṭṭho	jeṭṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	32	xcomp	_	SpaceAfter=No
+31	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	32	nsubj	_	SpaceAfter=No
+32	asmi	atthi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	parataxis	_	_
+33	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+34	seṭṭho	seṭṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	36	xcomp	_	SpaceAfter=No
+35	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	36	nsubj	_	SpaceAfter=No
+36	asmi	atthi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	parataxis	_	_
+37	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+38	ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	40	nsubj	_	SpaceAfter=No
+39	antimā	antima	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	40	amod	_	_
+40	jāti	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	28	parataxis	_	_
+41	n	na	PART	_	Polarity=Neg	42	advmod	_	SpaceAfter=No
+42	atthi	atthi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	parataxis	_	_
+43	dāni	idāni	ADV	_	_	42	advmod	_	_
+44-45	punabbhavo	_	_	_	_	_	_	_	SpaceAfter=No
+44	puna	puna	ADV	_	_	45	compound:av	_	_
+45	bbhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	42	nsubj	_	_
+46	ti	iti	PART	_	_	28	mark	_	_
+
+# sent_id = dn14:1.29.2
+# gretil_sent_id = dn14_31_2
+# text = Ayamettha dhammatā
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.30.1
+# gretil_sent_id = dn14_32_1
+# text = Dhammatā esā bhikkhave yadā bodhisatto mātukucchimhā nikkhamati atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ
+1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	yadā	yadā	ADV	_	_	9	advmod	_	_
+5	bodhisatto	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-7	mātukucchimhā	_	_	_	_	_	_	_	_
+6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
+7	kucchimhā	kucchi	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	nikkhamati	nikkhamati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl	_	_
+9	atha	atha	ADV	_	_	28	advmod	_	_
+10-11	sadevake	_	_	_	_	_	_	_	_
+10	sa	sa	ADJ	_	_	11	compound:bv	_	_
+11	devake	devaka	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	12	amod	_	_
+12	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+13-14	samārake	_	_	_	_	_	_	_	_
+13	sa	sa	ADJ	_	_	14	compound:bv	_	_
+14	mārake	māraka	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	12	conj	_	_
+15-16	sabrahmake	_	_	_	_	_	_	_	_
+15	sa	sa	ADJ	_	_	16	compound:bv	_	_
+16	brahmake	brahmake	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	12	conj	_	_
+17-19	sassamaṇabrāhmaṇiyā	_	_	_	_	_	_	_	_
+17	sa	sa	ADJ	_	_	18	compound:bv	_	_
+18	ssamaṇa	samaṇa	NOUN	_	_	19	compound:dv	_	_
+19	brāhmaṇiyā	brāhmaṇī	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	20	amod	_	_
+20	pajāya	pajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	27	obl	_	_
+21-23	sadevamanussāya	_	_	_	_	_	_	_	_
+21	sa	sa	ADJ	_	_	22	compound:bv	_	_
+22	deva	deva	NOUN	_	_	23	compound:dv	_	_
+23	manussāya	manussa	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	20	amod	_	_
+24	appamāṇo	appamāṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	26	amod	_	_
+25	uḷāro	uḷāra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	26	amod	_	_
+26	obhāso	obhāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+27	pātubhavati	pātubhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+28	atikkamm	atikkamati	VERB	_	VerbForm=Conv	27	advcl	_	SpaceAfter=No
+29	eva	eva	PART	_	_	28	advmod	_	_
+30	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	_
+31-32	devānubhāvaṃ	_	_	_	_	_	_	_	_
+31	devā	deva	NOUN	_	_	32	compound:tp	_	_
+32	nubhāvaṃ	ānubhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	_
+
+# sent_id = dn14:1.30.2
+# gretil_sent_id = dn14_32_2
+# text = Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapime candimasūriyā evaṃmahiddhikā evaṃmahānubhāvā ābhāya nānubhonti tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ
+1	Yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	5	acl:relcl	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	tā	tad	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+4-5	lokantarikā	_	_	_	_	_	_	_	_
+4	loka	loka	NOUN	_	_	5	compound:tp	_	_
+5	antarikā	antarikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	30	advcl	_	_
+6	aghā	agha	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+7	asaṃvutā	asaṃvuta	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+8	andhakārā	andhakāra	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+9-10	andhakāratimisā	_	_	_	_	_	_	_	_
+9	andhakāra	andhakāra	NOUN	_	_	10	compound:tp	_	_
+10	timisā	timisā	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
+11	yattha	yattha	ADV	_	PronType=Rel	24	advmod	_	SpaceAfter=No
+12	p	api	PART	_	_	11	discourse	_	SpaceAfter=No
+13	ime	ima	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+14-15	candimasūriyā	_	_	_	_	_	_	_	_
+14	candima	candimas	NOUN	_	_	15	compound:dv	_	_
+15	sūriyā	sūriya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
+16-18	evaṃmahiddhikā	_	_	_	_	_	_	_	_
+16	evaṃ	evaṃ	ADV	_	_	18	compound:tp	_	_
+17	mah	mahant	ADJ	_	_	18	compound:kd	_	_
+18	iddhikā	iddhika	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	15	amod	_	_
+19-21	evaṃmahānubhāvā	_	_	_	_	_	_	_	_
+19	evaṃ	evaṃ	ADV	_	_	21	compound:av	_	_
+20	mahā	mahant	ADJ	_	_	21	compound:kd	_	_
+21	anubhāvā	ānubhāva	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	15	amod	_	_
+22	ābhāya	ābhā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	24	obl	_	_
+23	nā	na	PART	_	Polarity=Neg	24	advmod	_	SpaceAfter=No
+24	nubhonti	anubhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	_
+25	tattha	tattha	ADV	_	PronType=Dem	30	advmod	_	SpaceAfter=No
+26	pi	api	PART	_	_	25	advmod	_	_
+27	appamāṇo	appamāṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	29	amod	_	_
+28	uḷāro	uḷāra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	29	amod	_	_
+29	obhāso	obhāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+30	pātubhavati	pātubhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+31	atikkamm	atikkamati	VERB	_	VerbForm=Conv	30	advcl	_	SpaceAfter=No
+32	eva	eva	PART	_	_	31	advmod	_	_
+33	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	35	nmod	_	_
+34-35	devānubhāvaṃ	_	_	_	_	_	_	_	_
+34	deva	deva	NOUN	_	_	35	compound:tp	_	_
+35	ānubhāvaṃ	ānubhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	31	obj	_	_
+
+# sent_id = dn14:1.30.3_1
+# gretil_sent_id = dn14_32_3
+# text = Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti
+1	Ye	yad	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	det	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	tattha	tattha	ADV	_	_	5	advmod	_	_
+4	sattā	satta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+5	upapannā	upapajjati	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	_
+6	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	12	nsubj	_	SpaceAfter=No
+7	pi	api	PART	_	_	6	discourse	_	_
+8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
+9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
+10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
+10	aññam	añña	PRON	_	PronType=Rcp	11	compound:dv	_	_
+11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
+12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.30.3_2
+# gretil_sent_id = dn14_32_4
+# text = Aññepi kira bho santi sattā idhūpapannāti
+1	Aññe	añña	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
+2	pi	api	PART	_	_	1	discourse	_	_
+3	kira	kira	PART	_	_	5	discourse	_	_
+4	bho	bho	PART	_	_	5	discourse	_	_
+5	santi	atthi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	sattā	satta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+7	idh	idha	ADV	_	PronType=Dem	8	advmod	_	SpaceAfter=No
+8	ūpapannā	upapajjati	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	SpaceAfter=No
+9	ti	iti	PART	_	_	5	mark	_	_
+
+# sent_id = dn14:1.30.4_1
+# gretil_sent_id = dn14_32_5
+# text = Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati
+1	Ayañ	ima	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+2	ca	ca	CCONJ	_	_	7	cc	_	_
+3-4	dasasahassī	_	_	_	_	_	_	_	_
+3	dasa	dasa	NUM	_	_	4	compound:dg	_	_
+4	sahassī	sahassin	NUM	_	Case=Nom|Gender=Fem|Number=Sing	6	nummod	_	_
+5-6	lokadhātu	_	_	_	_	_	_	_	_
+5	loka	loka	NOUN	_	_	6	compound:tp	_	_
+6	dhātu	dhātu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	saṅkampati	saṅkampati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	sampakampati	sampakampati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+9	sampavedhati	sampavedhati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+
+# sent_id = dn14:1.30.4_2
+# gretil_sent_id = dn14_32_6
+# text = Appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvaṃ
+1	Appamāṇo	appamāṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+2	ca	ca	CCONJ	_	_	6	cc	_	_
+3	uḷāro	uḷāra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+4	obhāso	obhāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	pātubhavati	pātubhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	atikkamm	atikkamati	VERB	_	VerbForm=Conv	6	advcl	_	SpaceAfter=No
+8	eva	eva	PART	_	_	7	discourse	_	_
+9	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+10-11	devānubhāvaṃ	_	_	_	_	_	_	_	_
+10	deva	deva	NOUN	_	_	11	compound:tp	_	_
+11	ānubhāvaṃ	ānubhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = dn14:1.30.5
+# gretil_sent_id = dn14_32_7
+# text = Ayamettha dhammatā
+1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	ettha	ettha	ADV	_	_	3	advmod	_	_
+3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.32.1
+# gretil_sent_id = dn14_34_1
+# text = Katamehi cāyaṃ deva kumāro dvattiṃsamahāpurisalakkhaṇehi samannāgato yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā
+1	Katamehi	katama	DET	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Int	9	det	_	_
+2	c	ca	CCONJ	_	_	10	cc	_	SpaceAfter=No
+3	āyaṃ	ima	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+4	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	10	vocative	_	_
+5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+6-9	dvattiṃsamahāpurisalakkhaṇehi	_	_	_	_	_	_	_	_
+6	dvattiṃsa	dvattiṃsa	NUM	_	NumType=Card	9	compound:dg	_	_
+7	mahā	mahant	ADJ	_	_	8	compound:kd	_	_
+8	purisa	purisa	NOUN	_	_	9	compound:tp	_	_
+9	lakkhaṇehi	lakkhaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	10	obl	_	_
+10	samannāgato	samannāgacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+11	yehi	yad	PRON	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Rel	12	obl	_	_
+12	samannāgatassa	samannāgacchati	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+13-14	mahāpurisassa	_	_	_	_	_	_	_	_
+13	mahā	mahant	ADJ	_	_	14	compound:kd	_	_
+14	purisassa	purisa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+15	dve	dvi	NUM	_	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	17	nummod	_	SpaceAfter=No
+16	va	eva	PART	_	_	15	advmod	_	_
+17	gatiyo	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+18	bhavanti	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+19	anaññā	añña	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Polarity=Neg|PronType=Ind	17	amod	_	_
+
+# sent_id = dn14:1.32.2
+# gretil_sent_id = dn14_34_2
+# text = Sace agāraṃ ajjhāvasati rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato
+1	Sace	sace	SCONJ	_	_	3	mark	_	_
+2	agāraṃ	agāra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+3	ajjhāvasati	ajjhāvasati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+4	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	cakkavattī	cakkavattin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+7	dhammiko	dhammika	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+8-9	dhammarājā	_	_	_	_	_	_	_	_
+8	dhamma	dhamma	NOUN	_	_	9	compound:tp	_	_
+9	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+10	cāturanto	cāturanta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+11	vijitāvī	vijitāvin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+12-14	janapadatthāvariyappatto	_	_	_	_	_	_	_	_
+12	janapada	janapada	NOUN	_	_	13	compound:tp	_	_
+13	thāvariya	thāvariya	NOUN	_	_	14	compound:tp	_	_
+14	ppatto	pāpuṇāti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+15-17	sattaratanasamannāgato	_	_	_	_	_	_	_	_
+15	satta	satta	NUM	_	NumType=Card	16	compound:dg	_	_
+16	ratana	ratana	NOUN	_	_	17	compound:tp	_	_
+17	samannāgato	samannāgacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+
+# sent_id = dn14:1.32.3
+# gretil_sent_id = dn14_34_3
+# text = Tassimāni sattaratanāni bhavanti
+1	Tass	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	SpaceAfter=No
+2	imāni	idaṃ	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	_
+3-4	sattaratanāni	_	_	_	_	_	_	_	_
+3	satta	satta	NUM	_	NumType=Card	4	compound:dg	_	_
+4	ratanāni	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+5	bhavanti	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.32.4
+# gretil_sent_id = dn14_34_4
+# text = Seyyathidaṃ cakkaratanaṃ hatthiratanaṃ assaratanaṃ maṇiratanaṃ itthiratanaṃ gahapatiratanaṃ pariṇāyakaratanameva sattamaṃ
+1	Seyyath	seyyathā	ADV	_	_	2	advmod	_	SpaceAfter=No
+2	idaṃ	idaṃ	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	advcl	_	_
+3-4	cakkaratanaṃ	_	_	_	_	_	_	_	_
+3	cakka	cakka	NOUN	_	_	4	compound:tp	_	_
+4	ratanaṃ	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5-6	hatthiratanaṃ	_	_	_	_	_	_	_	_
+5	hatthi	hatthin	NOUN	_	_	6	compound:tp	_	_
+6	ratanaṃ	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+7-8	assaratanaṃ	_	_	_	_	_	_	_	_
+7	assa	assa	NOUN	_	_	8	compound:tp	_	_
+8	ratanaṃ	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+9-10	maṇiratanaṃ	_	_	_	_	_	_	_	_
+9	maṇi	maṇi	NOUN	_	_	10	compound:tp	_	_
+10	ratanaṃ	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+11-12	itthiratanaṃ	_	_	_	_	_	_	_	_
+11	itthi	itthī	NOUN	_	_	12	compound:tp	_	_
+12	ratanaṃ	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+13-14	gahapatiratanaṃ	_	_	_	_	_	_	_	_
+13	gahapati	gahapati	NOUN	_	_	14	compound:tp	_	_
+14	ratanaṃ	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+15-16	pariṇāyakaratanam	_	_	_	_	_	_	_	SpaceAfter=No
+15	pariṇāyaka	pariṇāyaka	NOUN	_	_	16	compound:tp	_	_
+16	ratanam	ratana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+17	eva	eva	PART	_	_	16	advmod	_	_
+18	sattamaṃ	sattama	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	16	amod	_	_
+
+# sent_id = dn14:1.32.5
+# gretil_sent_id = dn14_34_5
+# text = Parosahassaṃ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā
+1-2	Parosahassaṃ	_	_	_	_	_	_	_	_
+1	paro	paro	ADV	_	_	2	compound:tp	_	_
+2	sahassaṃ	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	6	nummod	_	_
+3	kho	kho	PART	_	_	7	discourse	_	_
+4	pan	pana	PART	_	_	7	advmod	_	SpaceAfter=No
+5	assa	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	nmod	_	_
+6	puttā	putta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	bhavanti	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	sūrā	sūra	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	_
+9-11	vīraṅgarūpā	_	_	_	_	_	_	_	_
+9	vīra	vīra	NOUN	_	_	10	compound:tp	_	_
+10	aṅga	aṅga	NOUN	_	_	11	compound:tp	_	_
+11	rūpā	rūpa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	_
+12-14	parasenappamaddanā	_	_	_	_	_	_	_	_
+12	para	para	ADJ	_	_	13	compound:kd	_	_
+13	sena	senā	NOUN	_	_	14	compound:tp	_	_
+14	pamaddanā	pamaddana	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	_
+
+# sent_id = dn14:1.32.6
+# gretil_sent_id = dn14_34_6
+# text = So imaṃ pathaviṃ sāgarapariyantaṃ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati
+1	So	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
+2	imaṃ	idaṃ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	pathaviṃ	pathavī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+4-5	sāgarapariyantaṃ	_	_	_	_	_	_	_	_
+4	sāgara	sāgara	NOUN	_	_	5	compound:tp	_	_
+5	pariyantaṃ	pariyanta	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
+6	adaṇḍena	daṇḍa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing|Polarity=Neg	9	obl	_	_
+7	asatthena	sattha	NOUN	_	Case=Ins|Gender=Neut|Number=Sing|Polarity=Neg	9	obl	_	_
+8	dhammena	dhamma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+9	abhivijiya	abhivijināti	VERB	_	VerbForm=Conv	10	advcl	_	_
+10	ajjhāvasati	ajjhāvasati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:1.32.7_1
+# gretil_sent_id = dn14_34_7
+# text = Sace kho pana agārasmā anagāriyaṃ pabbajati arahaṃ hoti sammāsambuddho loke vivaṭacchado
+1	Sace	sace	SCONJ	_	_	6	mark	_	_
+2	kho	kho	PART	_	_	6	discourse	_	_
+3	pana	pana	PART	_	_	6	advmod	_	_
+4	agārasmā	agāra	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+5	anagāriyaṃ	agāriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg	6	obl	_	_
+6	pabbajati	pabbajati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+7	arahaṃ	arahant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+9-10	sammāsambuddho	_	_	_	_	_	_	_	_
+9	sammā	sammā	ADV	_	_	10	compound:kd	_	_
+10	sambuddho	sambujjhati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	appos	_	_
+11	loke	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+12-13	vivaṭacchado	_	_	_	_	_	_	_	_
+12	vivaṭa	vivarati	VERB	_	_	13	compound:kd	_	_
+13	cchado	chada	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
+
+# sent_id = dn14:1.32.7_2
+# gretil_sent_id = dn14_35_1
+# text = Ayañhi deva kumāro suppatiṭṭhitapādo
+1	Ayañ	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	SpaceAfter=No
+2	hi	hi	PART	_	_	7	discourse	_	_
+3	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	_
+4	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5-7	suppatiṭṭhitapādo	_	_	_	_	_	_	_	_
+5	su	su	ADV	_	_	6	compound:kd	_	_
+6	patiṭṭhita	patiṭṭhāti	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	7	compound:kd	_	_
+7	pādo	pāda	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:1.32.7_3
+# gretil_sent_id = dn14_35_2
+# text = Yaṃ pāyaṃ deva kumāro suppatiṭṭhitapādo idampissa mahāpurisassa mahāpurisalakkhaṇaṃ bhavati
+1	Yaṃ	yad	SCONJ	_	_	8	mark	_	_
+2	p	pi	PART	_	_	8	discourse	_	SpaceAfter=No
+3	āyaṃ	ima	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+4	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6-8	suppatiṭṭhitapādo	_	_	_	_	_	_	_	_
+6	su	su	ADV	_	_	7	compound:kd	_	_
+7	patiṭṭhita	patiṭṭhāti	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	8	compound:kd	_	_
+8	pādo	pāda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	ccomp	_	_
+9	idam	ima	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj	_	SpaceAfter=No
+10	pi	pi	PART	_	_	16	discourse	_	SpaceAfter=No
+11	ssa	tad	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+12-13	mahāpurisassa	_	_	_	_	_	_	_	_
+12	mahā	mahant	ADJ	_	_	13	compound:kd	_	_
+13	purisassa	purisa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+14-16	mahāpurisalakkhaṇaṃ	_	_	_	_	_	_	_	_
+14	mahā	mahant	ADJ	_	_	15	compound:kd	_	_
+15	purisa	purisa	NOUN	_	_	16	compound:tp	_	_
+16	lakkhaṇaṃ	lakkhaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+17	bhavati	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+
+# sent_id = dn14:1.38.1
+# gretil_sent_id = dn14_42_1
+# text = Atha kho bhikkhave bandhumā rājā vipassissa kumārassa tayo pāsāde kārāpesi ekaṃ vassikaṃ ekaṃ hemantikaṃ ekaṃ gimhikaṃ
+1	Atha	atha	ADV	_	_	10	advmod	_	_
+2	kho	kho	PART	_	_	10	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+4	bandhumā	bandhumant	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+5	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	_
+7	kumārassa	kumāra	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	appos	_	_
+8	tayo	ti	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
+9	pāsāde	pāsāda	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+10	kārāpesi	karoti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+11	ekaṃ	eka	NUM	_	Case=Acc|Gender=Neut|Number=Sing	9	appos	_	_
+12	vassikaṃ	vassika	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	_
+13	ekaṃ	eka	NUM	_	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	_
+14	hemantikaṃ	hemantika	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	_
+15	ekaṃ	eka	NUM	_	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	_
+16	gimhikaṃ	gimhika	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	15	amod	_	_
+
+# sent_id = dn14:1.38.2
+# gretil_sent_id = dn14_42_2
+# text = Pañca kāmaguṇāni upaṭṭhāpesi
+1	Pañca	pañca	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	3	nummod	_	_
+2-3	kāmaguṇāni	_	_	_	_	_	_	_	_
+2	kāma	kāma	NOUN	_	_	3	compound:tp	_	_
+3	guṇāni	guṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+4	upaṭṭhāpesi	upaṭṭhāti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+
+# sent_id = dn14:1.38.3
+# gretil_sent_id = dn14_42_3
+# text = Tatra sudaṃ bhikkhave vipassī kumāro vassike pāsāde cattāro māse nippurisehi tūriyehi paricārayamāno na heṭṭhāpāsādaṃ orohatīti
+1	Tatra	tatra	ADV	_	PronType=Dem	17	advmod	_	_
+2	sudaṃ	sudaṃ	PART	_	_	17	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	17	vocative	_	_
+4	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	vassike	vassika	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	7	amod	_	_
+7	pāsāde	pāsāda	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	17	obl	_	_
+8	cattāro	catu	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
+9	māse	māsa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	17	obl	_	_
+10-11	nippurisehi	_	_	_	_	_	_	_	_
+10	nis	nis	PART	_	_	11	compound:bv	_	_
+11	purisehi	purisa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	12	nmod	_	_
+12	tūriyehi	tūriya	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	13	obl	_	_
+13	paricārayamāno	paricāreti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	17	advcl	_	_
+14	na	na	PART	_	Polarity=Neg	17	advmod	_	_
+15-16	heṭṭhāpāsādaṃ	_	_	_	_	_	_	_	_
+15	heṭṭhā	heṭṭhā	ADV	_	_	16	compound:kd	_	_
+16	pāsādaṃ	pāsāda	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	obl:goal	_	_
+17	orohatī	orohati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+18	ti	iti	PART	_	_	17	mark	_	_
+
+# sent_id = dn14:2.1.1
+# gretil_sent_id = dn14_43_1
+# text = Atha kho bhikkhave vipassī kumāro bahūnaṃ vassānaṃ bahūnaṃ vassasatānaṃ bahūnaṃ vassasahassānaṃ accayena sārathiṃ āmantesi
+1	Atha	atha	ADV	_	_	16	advmod	_	_
+2	kho	kho	PART	_	_	16	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	16	vocative	_	_
+4	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	bahūnaṃ	bahu	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	7	amod	_	_
+7	vassānaṃ	vassa	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	14	nmod	_	_
+8	bahūnaṃ	bahu	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	10	amod	_	_
+9-10	vassasatānaṃ	_	_	_	_	_	_	_	_
+9	vassa	vassa	NOUN	_	_	10	compound:tp	_	_
+10	satānaṃ	sata	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	7	conj	_	_
+11	bahūnaṃ	bahu	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	13	amod	_	_
+12-13	vassasahassānaṃ	_	_	_	_	_	_	_	_
+12	vassa	vassa	NOUN	_	_	13	compound:tp	_	_
+13	sahassānaṃ	sahassa	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	7	conj	_	_
+14	accayena	accaya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+15	sārathiṃ	sārathi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+16	āmantesi	āmanteti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.1.2_1
+# gretil_sent_id = dn14_43_2
+# text = Yojehi samma sārathi bhaddāni bhaddāni yānāni
+1	Yojehi	yojeti	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	samma	samma	PART	_	_	3	discourse	_	_
+3	sārathi	sārathi	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
+4	bhaddāni	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	_
+5	bhaddāni	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	_
+6	yānāni	yāna	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+
+# sent_id = dn14:2.1.2_2
+# gretil_sent_id = dn14_43_3
+# text = Uyyānabhūmiṃ gacchāma subhūmidassanāyāti
+1-2	Uyyānabhūmiṃ	_	_	_	_	_	_	_	_
+1	uyyāna	uyyāna	NOUN	_	_	2	compound:tp	_	_
+2	bhūmiṃ	bhūmi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl:goal	_	_
+3	gacchāma	gacchati	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4-6	subhūmidassanāyā	_	_	_	_	_	_	_	SpaceAfter=No
+4	su	su	ADJ	_	_	5	compound:kd	_	_
+5	bhūmi	bhūmi	NOUN	_	_	6	compound:tp	_	_
+6	dassanāyā	dassana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	_
+7	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.1.3_1
+# gretil_sent_id = dn14_43_4
+# text = Evaṃ devāti
+1	Evaṃ	evaṃ	ADV	_	_	0	root	_	_
+2	devā	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
+3	ti	iti	PART	_	_	1	mark	_	_
+
+# sent_id = dn14:2.1.3_2
+# gretil_sent_id = dn14_43_5
+# text = Kho bhikkhave sārathi vipassissa kumārassa paṭissutvā bhaddāni bhaddāni yānāni yojetvā vipassissa kumārassa paṭivedesi
+1	Kho	kho	PART	_	_	13	discourse	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	13	vocative	_	_
+3	sārathi	sārathi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+5	kumārassa	kumāra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	_
+6	paṭissutvā	paṭisuṇāti	VERB	_	VerbForm=Conv	13	advcl	_	_
+7	bhaddāni	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
+8	bhaddāni	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
+9	yānāni	yāna	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+10	yojetvā	yojeti	VERB	_	VerbForm=Conv	13	advcl	_	_
+11	vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	_
+12	kumārassa	kumāra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	_
+13	paṭivedesi	paṭivedeti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.1.4
+# gretil_sent_id = dn14_43_6
+# text = Yuttāni kho te deva bhaddāni bhaddāni yānāni
+1	Yuttāni	yuñjati	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	kho	kho	PART	_	_	1	discourse	_	_
+3	te	tvaṃ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
+5	bhaddāni	bhadda	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	_
+6	bhaddāni	bhadda	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	_
+7	yānāni	yāna	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	nsubj:pass	_	_
+
+# sent_id = dn14:2.1.5
+# gretil_sent_id = dn14_43_7
+# text = Yassadāni kālaṃ maññasīti
+1	Yassa	yad	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	3	nmod	_	SpaceAfter=No
+2	dāni	idāni	ADV	_	_	4	advmod	_	_
+3	kālaṃ	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	maññasī	maññati	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.1.6
+# gretil_sent_id = dn14_43_8
+# text = Atha kho bhikkhave vipassī kumāro bhaddaṃ bhaddaṃ yānaṃ abhiruhitvā bhaddehi bhaddehi yānehi uyyānabhūmiṃ niyyāsi
+1	Atha	atha	ADV	_	_	15	advmod	_	_
+2	kho	kho	PART	_	_	15	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	15	vocative	_	_
+4	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	bhaddaṃ	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	_
+7	bhaddaṃ	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	_
+8	yānaṃ	yāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+9	abhiruhitvā	abhiruhati	VERB	_	VerbForm=Conv	15	advcl	_	_
+10	bhaddehi	bhadda	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	12	amod	_	_
+11	bhaddehi	bhadda	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	12	amod	_	_
+12	yānehi	yāna	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	15	obl	_	_
+13-14	uyyānabhūmiṃ	_	_	_	_	_	_	_	_
+13	uyyāna	uyyāna	NOUN	_	_	14	compound:tp	_	_
+14	bhūmiṃ	bhūmi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl:goal	_	_
+15	niyyāsi	niyyāti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.16.1
+# gretil_sent_id = dn14_55_1
+# text = Assosi kho bhikkhave bandhumatiyā rājadhāniyā mahājanakāyo caturāsītipāṇasahassāni
+1	Assosi	suṇāti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kho	kho	PART	_	_	1	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
+4	bandhumatiyā	bandhumatī	PROPN	_	Case=Gen,Loc|Gender=Fem|Number=Sing	1	obl	_	_
+5	rājadhāniyā	rājadhānī	NOUN	_	Case=Gen,Loc|Gender=Fem|Number=Sing	4	appos	_	_
+6-8	mahājanakāyo	_	_	_	_	_	_	_	_
+6	mahā	mahā	ADJ	_	_	7	compound:kd	_	_
+7	jana	jana	NOUN	_	_	8	compound:tp	_	_
+8	kāyo	kāya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+9-11	caturāsītipāṇasahassāni	_	_	_	_	_	_	_	_
+9	caturāsīti	caturāsīti	NUM	_	NumType=Card	10	compound:dg	_	_
+10	pāṇa	pāṇa	NOUN	_	_	11	compound:tp	_	_
+11	sahassāni	sahassa	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	8	nummod	_	_
+
+# sent_id = dn14:2.16.2
+# gretil_sent_id = dn14_55_2
+# text = Vipassī kira kumāro kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajitoti
+1	Vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+2	kira	kira	PART	_	_	12	discourse	_	_
+3	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4-5	kesamassuṃ	_	_	_	_	_	_	_	_
+4	kesa	kesa	NOUN	_	_	5	compound:dv	_	_
+5	massuṃ	massu	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+6	ohāretvā	ohāreti	VERB	_	VerbForm=Conv	12	advcl	_	_
+7	kāsāyāni	kāsāya	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	8	amod	_	_
+8	vatthāni	vattha	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+9	acchādetvā	acchādeti	VERB	_	VerbForm=Conv	12	advcl	_	_
+10	agārasmā	agāra	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	_
+11	anagāriyaṃ	anagāriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obl:goal	_	_
+12	pabbajito	pabbajati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+13	ti	iti	PART	_	_	12	mark	_	_
+
+# sent_id = dn14:2.16.3
+# gretil_sent_id = dn14_55_3
+# text = Sutvāna tesaṃ etadahosi
+1	Sutvāna	suṇāti	VERB	_	VerbForm=Conv	4	advcl	_	_
+2	tesaṃ	tad	PRON	_	Case=Dat|Number=Plur|PronType=Dem	4	obl	_	_
+3	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	SpaceAfter=No
+4	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.16.4
+# gretil_sent_id = dn14_55_4
+# text = Na hi nūna so orako dhammavinayo na sā orakā pabbajjā yattha vipassī kumāro kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito
+1	Na	na	PART	_	Polarity=Neg	5	advmod	_	_
+2	hi	hi	PART	_	_	5	discourse	_	_
+3	nūna	nūna	PART	_	_	5	discourse	_	_
+4	so	tad	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+5	orako	oraka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6-7	dhammavinayo	_	_	_	_	_	_	_	_
+6	dhamma	dhamma	NOUN	_	_	7	compound:dv	_	_
+7	vinayo	vinaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+8	na	na	PART	_	Polarity=Neg	10	advmod	_	_
+9	sā	tad	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+10	orakā	oraka	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+11	pabbajjā	pabbajjā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+12	yattha	yattha	ADV	_	PronType=Rel	23	advmod	_	_
+13	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+14	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
+15-16	kesamassuṃ	_	_	_	_	_	_	_	_
+15	kesa	kesa	NOUN	_	_	16	compound:dv	_	_
+16	massuṃ	massu	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	ohāretvā	ohāreti	VERB	_	VerbForm=Conv	23	advcl	_	_
+18	kāsāyāni	kāsāya	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	19	amod	_	_
+19	vatthāni	vattha	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	20	obj	_	_
+20	acchādetvā	acchādeti	VERB	_	VerbForm=Conv	23	advcl	_	_
+21	agārasmā	agāra	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+22	anagāriyaṃ	anagāriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obl:goal	_	_
+23	pabbajito	pabbajati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
+
+# sent_id = dn14:2.18.1
+# gretil_sent_id = dn14_57_1
+# text = Atha kho bhikkhave vipassissa bodhisattassa vāsūpagatassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi
+1	Atha	atha	ADV	_	_	14	advmod	_	_
+2	kho	kho	PART	_	_	1	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	14	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	_
+6-7	vāsūpagatassa	_	_	_	_	_	_	_	_
+6	vāsa	vāsa	NOUN	_	_	7	compound:tp	_	_
+7	upagatassa	upagacchati	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+8-9	rahogatassa	_	_	_	_	_	_	_	_
+8	raho	rahas	NOUN	_	_	9	compound:tp	_	_
+9	gatassa	gacchati	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+10	paṭisallīnassa	paṭisallīyati	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+11	evaṃ	evaṃ	ADV	_	_	14	advmod	_	_
+12	cetaso	cetas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+13	parivitakko	parivitakka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	udapādi	udapajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.2_1
+# gretil_sent_id = dn14_57_2
+# text = Kicchaṃ vatāyaṃ loko āpanno
+1	Kicchaṃ	kiccha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl:goal	_	_
+2	vat	vata	PART	_	_	4	discourse	_	SpaceAfter=No
+3	āyaṃ	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	loko	loka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	āpanno	āpajjati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = dn14:2.18.2_2
+# gretil_sent_id = dn14_57_3
+# text = Jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca atha ca panimassa dukkhassa nissaraṇaṃ nappajānāti jarāmaraṇassa
+1	Jāyati	jāyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ca	ca	CCONJ	_	_	1	cc	_	_
+3	jīyati	jīyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	ca	ca	CCONJ	_	_	3	cc	_	_
+5	mīyati	mīyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	ca	ca	CCONJ	_	_	5	cc	_	_
+7	cavati	cavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	ca	ca	CCONJ	_	_	7	cc	_	_
+9	upapajjati	upapajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+10	ca	ca	CCONJ	_	_	9	cc	_	_
+11	atha	atha	ADV	_	_	18	advmod	_	_
+12	ca	ca	CCONJ	_	_	11	cc	_	_
+13	pan	pana	PART	_	_	18	discourse	_	SpaceAfter=No
+14	imassa	idaṃ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	_
+15	dukkhassa	dukkha	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+16	nissaraṇaṃ	nissaraṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+17	na	na	PART	_	Polarity=Neg	18	advmod	_	SpaceAfter=No
+18	ppajānāti	pajānāti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+19-20	jarāmaraṇassa	_	_	_	_	_	_	_	_
+19	jarā	jarā	NOUN	_	_	20	compound:dv	_	_
+20	maraṇassa	maraṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	appos	_	_
+
+# sent_id = dn14:2.18.3
+# gretil_sent_id = dn14_57_4
+# text = Kudāssu nāma imassa dukkhassa nissaraṇaṃ paññāyissati jarāmaraṇassāti
+1	Kudā	kudā	ADV	_	PronType=Int	7	advmod	_	SpaceAfter=No
+2	ssu	ssu	PART	_	_	1	discourse	_	_
+3	nāma	nāma	PART	_	_	7	discourse	_	_
+4	imassa	idaṃ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	dukkhassa	dukkha	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+6	nissaraṇaṃ	nissaraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	paññāyissati	paññāyati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+8-9	jarāmaraṇassā	_	_	_	_	_	_	_	SpaceAfter=No
+8	jarā	jarā	NOUN	_	_	9	compound:dv	_	_
+9	maraṇassā	maraṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	appos	_	_
+10	ti	iti	PART	_	_	7	mark	_	_
+
+# sent_id = dn14:2.18.4
+# gretil_sent_id = dn14_57_5
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.5_1
+# gretil_sent_id = dn14_57_6
+# text = Kimhi nu kho sati jarāmaraṇaṃ hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	7	discourse	_	_
+3	kho	kho	PART	_	_	7	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
+5-6	jarāmaraṇaṃ	_	_	_	_	_	_	_	_
+5	jarā	jarā	NOUN	_	_	6	compound:dv	_	_
+6	maraṇaṃ	maraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.5_2
+# gretil_sent_id = dn14_57_7
+# text = Kiṃpaccayā jarāmaraṇanti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	jarāmaraṇan	_	_	_	_	_	_	_	SpaceAfter=No
+3	jarā	jarā	NOUN	_	_	4	compound:dv	_	_
+4	maraṇan	maraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.18.6
+# gretil_sent_id = dn14_57_8
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.7_1
+# gretil_sent_id = dn14_57_9
+# text = Jātiyā kho sati jarāmaraṇaṃ hoti
+1	Jātiyā	jāti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	6	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+4-5	jarāmaraṇaṃ	_	_	_	_	_	_	_	_
+4	jarā	jarā	NOUN	_	_	5	compound:dv	_	_
+5	maraṇaṃ	maraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.7_2
+# gretil_sent_id = dn14_57_10
+# text = Jātipaccayā jarāmaraṇanti
+1-2	Jātipaccayā	_	_	_	_	_	_	_	_
+1	Jāti	jāti	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	jarāmaraṇan	_	_	_	_	_	_	_	SpaceAfter=No
+3	jarā	jarā	NOUN	_	_	4	compound:dv	_	_
+4	maraṇan	maraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.18.8
+# gretil_sent_id = dn14_57_11
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.9_1
+# gretil_sent_id = dn14_57_12
+# text = Kimhi nu kho sati jāti hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	jāti	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.9_2
+# gretil_sent_id = dn14_57_13
+# text = Kiṃpaccayā jātīti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	jātī	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.10
+# gretil_sent_id = dn14_57_14
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.11_1
+# gretil_sent_id = dn14_57_15
+# text = Bhave kho sati jāti hoti
+1	Bhave	bhava	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	5	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	jāti	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.11_2
+# gretil_sent_id = dn14_57_16
+# text = Bhavapaccayā jātīti
+1-2	Bhavapaccayā	_	_	_	_	_	_	_	_
+1	Bhava	bhava	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	jātī	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.12
+# gretil_sent_id = dn14_57_17
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.13_1
+# gretil_sent_id = dn14_57_18
+# text = Kimhi nu kho sati bhavo hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	bhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.13_2
+# gretil_sent_id = dn14_57_19
+# text = Kiṃpaccayā bhavoti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	bhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.14
+# gretil_sent_id = dn14_57_20
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.15_1
+# gretil_sent_id = dn14_57_21
+# text = Upādāne kho sati bhavo hoti
+1	Upādāne	upādāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	5	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	bhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.15_2
+# gretil_sent_id = dn14_57_22
+# text = Upādānapaccayā bhavoti
+1-2	Upādānapaccayā	_	_	_	_	_	_	_	_
+1	Upādāna	upādāna	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	bhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.16
+# gretil_sent_id = dn14_57_23
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.17_1
+# gretil_sent_id = dn14_57_24
+# text = Kimhi nu kho sati upādānaṃ hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	upādānaṃ	upādāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.17_2
+# gretil_sent_id = dn14_57_25
+# text = Kiṃpaccayā upādānanti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	upādānan	upādāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.18
+# gretil_sent_id = dn14_57_26
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.19_1
+# gretil_sent_id = dn14_57_27
+# text = Taṇhāya kho sati upādānaṃ hoti
+1	Taṇhāya	taṇhā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	5	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	upādānaṃ	upādāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.19_2
+# gretil_sent_id = dn14_57_28
+# text = Taṇhāpaccayā upādānanti
+1-2	Taṇhāpaccayā	_	_	_	_	_	_	_	_
+1	Taṇhā	taṇhā	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	advcl	_	_
+3	upādānan	upādāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.20
+# gretil_sent_id = dn14_57_29
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.21_1
+# gretil_sent_id = dn14_57_30
+# text = Kimhi nu kho sati taṇhā hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	taṇhā	taṇhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.21_2
+# gretil_sent_id = dn14_57_31
+# text = Kiṃpaccayā taṇhāti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	taṇhā	taṇhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.22
+# gretil_sent_id = dn14_57_32
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.23_1
+# gretil_sent_id = dn14_57_33
+# text = Vedanāya kho sati taṇhā hoti
+1	Vedanāya	vedanā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	5	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	taṇhā	taṇhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.23_2
+# gretil_sent_id = dn14_57_34
+# text = Vedanāpaccayā taṇhāti
+1-2	Vedanāpaccayā	_	_	_	_	_	_	_	_
+1	Vedanā	vedanā	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	taṇhā	taṇhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.24
+# gretil_sent_id = dn14_57_35
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.25_1
+# gretil_sent_id = dn14_57_36
+# text = Kimhi nu kho sati vedanā hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.25_2
+# gretil_sent_id = dn14_57_37
+# text = Kiṃpaccayā vedanāti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	advcl	_	_
+3	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.26
+# gretil_sent_id = dn14_57_38
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	10	advmod	_	_
+2	kho	kho	PART	_	_	10	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	_
+5-6	bodhisattassa	_	_	_	_	_	_	_	_
+5	bodhi	bodhi	NOUN	_	_	6	compound:tp	_	_
+6	sattassa	satta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+7	yoniso	yoniso	ADV	_	_	9	advmod	_	_
+8-9	manasikārā	_	_	_	_	_	_	_	_
+8	manasi	manas	NOUN	_	_	9	compound:tp	_	_
+9	kārā	kāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	_
+10	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	12	nmod	_	_
+12	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+
+# sent_id = dn14:2.18.27_1
+# gretil_sent_id = dn14_57_39
+# text = Phasse kho sati vedanā hoti
+1	Phasse	phassa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	5	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.27_2
+# gretil_sent_id = dn14_57_40
+# text = Phassapaccayā vedanāti
+1-2	Phassapaccayā	_	_	_	_	_	_	_	_
+1	Phassa	phassa	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.28
+# gretil_sent_id = dn14_57_41
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.29_1
+# gretil_sent_id = dn14_57_42
+# text = Kimhi nu kho sati phasso hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	phasso	phassa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.29_2
+# gretil_sent_id = dn14_57_43
+# text = Kiṃpaccayā phassoti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	phasso	phassa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.30
+# gretil_sent_id = dn14_57_44
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.31_1
+# gretil_sent_id = dn14_57_45
+# text = Saḷāyatane kho sati phasso hoti
+1	Saḷāyatane	saḷāyatana	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	5	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	phasso	phassa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.31_2
+# gretil_sent_id = dn14_57_46
+# text = Saḷāyatanapaccayā phassoti
+1-2	Saḷāyatanapaccayā	_	_	_	_	_	_	_	_
+1	Saḷāyatana	saḷāyatana	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	phasso	phassa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.32
+# gretil_sent_id = dn14_57_47
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.33_1
+# gretil_sent_id = dn14_57_48
+# text = Kimhi nu kho sati saḷāyatanaṃ hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	saḷāyatanaṃ	saḷāyatana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.33_2
+# gretil_sent_id = dn14_57_49
+# text = Kiṃpaccayā saḷāyatananti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	saḷāyatanan	saḷāyatana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.34
+# gretil_sent_id = dn14_57_50
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.35_1
+# gretil_sent_id = dn14_57_51
+# text = Nāmarūpe kho sati saḷāyatanaṃ hoti
+1-2	Nāmarūpe	_	_	_	_	_	_	_	_
+1	Nāma	nāma	NOUN	_	_	2	compound:dv	_	_
+2	rūpe	rūpa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	saḷāyatanaṃ	saḷāyatana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.35_2
+# gretil_sent_id = dn14_57_52
+# text = Nāmarūpapaccayā saḷāyatananti
+1-3	Nāmarūpapaccayā	_	_	_	_	_	_	_	_
+1	Nāma	nāma	NOUN	_	_	2	compound:dv	_	_
+2	rūpa	rūpa	NOUN	_	_	3	compound:tp	_	_
+3	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+4	saḷāyatanan	saḷāyatana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.18.36
+# gretil_sent_id = dn14_57_53
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.37_1
+# gretil_sent_id = dn14_57_54
+# text = Kimhi nu kho sati nāmarūpaṃ hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	7	discourse	_	_
+3	kho	kho	PART	_	_	7	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
+5-6	nāmarūpaṃ	_	_	_	_	_	_	_	_
+5	nāma	nāma	NOUN	_	_	6	compound:dv	_	_
+6	rūpaṃ	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.37_2
+# gretil_sent_id = dn14_57_55
+# text = Kiṃpaccayā nāmarūpanti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	nāmarūpan	_	_	_	_	_	_	_	SpaceAfter=No
+3	nāma	nāma	NOUN	_	_	4	compound:dv	_	_
+4	rūpan	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.18.38
+# gretil_sent_id = dn14_57_56
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.39_1
+# gretil_sent_id = dn14_57_57
+# text = Viññāṇe kho sati nāmarūpaṃ hoti
+1	Viññāṇe	viññāṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	kho	kho	PART	_	_	6	discourse	_	_
+3	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+4-5	nāmarūpaṃ	_	_	_	_	_	_	_	_
+4	nāma	nāma	NOUN	_	_	5	compound:dv	_	_
+5	rūpaṃ	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.39_2
+# gretil_sent_id = dn14_57_58
+# text = Viññāṇapaccayā nāmarūpanti
+1-2	Viññāṇapaccayā	_	_	_	_	_	_	_	_
+1	Viññāṇa	viññāṇa	NOUN	_	_	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	nāmarūpan	_	_	_	_	_	_	_	SpaceAfter=No
+3	nāma	nāma	NOUN	_	_	4	compound:dv	_	_
+4	rūpan	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.18.40
+# gretil_sent_id = dn14_57_59
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.41_1
+# gretil_sent_id = dn14_57_60
+# text = Kimhi nu kho sati viññāṇaṃ hoti
+1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+2	nu	nu	PART	_	_	6	discourse	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	viññāṇaṃ	viññāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.41_2
+# gretil_sent_id = dn14_57_61
+# text = Kiṃpaccayā viññāṇanti
+1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
+1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+3	viññāṇan	viññāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.18.42
+# gretil_sent_id = dn14_57_62
+# text = Atha kho bhikkhave vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo
+1	Atha	atha	ADV	_	_	8	advmod	_	_
+2	kho	kho	PART	_	_	8	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	yoniso	yoniso	ADV	_	_	7	advmod	_	_
+7	manasikārā	manasikāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	ahu	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	paññāya	paññā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+10	abhisamayo	abhisamaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+
+# sent_id = dn14:2.18.43_1
+# gretil_sent_id = dn14_57_63
+# text = Nāmarūpe kho sati viññāṇaṃ hoti
+1-2	Nāmarūpe	_	_	_	_	_	_	_	_
+1	Nāma	nāma	NOUN	_	_	2	compound:dv	_	_
+2	rūpe	rūpa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	kho	kho	PART	_	_	6	discourse	_	_
+4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	viññāṇaṃ	viññāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.18.43_2
+# gretil_sent_id = dn14_57_64
+# text = Nāmarūpapaccayā viññāṇanti
+1-3	Nāmarūpapaccayā	_	_	_	_	_	_	_	_
+1	Nāma	nāma	NOUN	_	_	2	compound:dv	_	_
+2	rūpa	rūpa	NOUN	_	_	3	compound:tp	_	_
+3	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+4	viññāṇan	viññāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	ti	iti	PART	_	_	4	mark	_	_
+
+# sent_id = dn14:2.21.1
+# gretil_sent_id = dn14_61_1
+# text = Atha kho bhikkhave vipassissa bodhisattassa etadahosi
+1	Atha	atha	ADV	_	_	7	advmod	_	_
+2	kho	kho	PART	_	_	7	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	_
+4	vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+5	bodhisattassa	bodhisatta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	_
+6	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	SpaceAfter=No
+7	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.21.2
+# gretil_sent_id = dn14_61_2
+# text = Adhigato kho myāyaṃ maggo sambodhāya yadidaṃ
+1	Adhigato	adhigacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	kho	kho	PART	_	_	1	discourse	_	_
+3	my	ahaṃ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	obl:agent	_	SpaceAfter=No
+4	āyaṃ	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	maggo	magga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+6	sambodhāya	sambodha	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	_
+7	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	SpaceAfter=No
+8	idaṃ	idaṃ	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	acl:relcl	_	_
+
+# sent_id = dn14:2.21.3_1
+# gretil_sent_id = dn14_61_3
+# text = Nāmarūpanirodhā viññāṇanirodho
+1-3	Nāmarūpanirodhā	_	_	_	_	_	_	_	_
+1	Nāma	nāma	NOUN	_	_	2	compound:dv	_	_
+2	rūpa	rūpa	NOUN	_	_	3	compound:tp	_	_
+3	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+4-5	viññāṇanirodho	_	_	_	_	_	_	_	_
+4	viññāṇa	viññāṇa	NOUN	_	_	5	compound:tp	_	_
+5	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_2
+# gretil_sent_id = dn14_61_4
+# text = Viññāṇanirodhā nāmarūpanirodho
+1-2	Viññāṇanirodhā	_	_	_	_	_	_	_	_
+1	viññāṇa	viññāṇa	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+3-5	nāmarūpanirodho	_	_	_	_	_	_	_	_
+3	nāma	nāma	NOUN	_	_	4	compound:dv	_	_
+4	rūpa	rūpa	NOUN	_	_	5	compound:tp	_	_
+5	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_3
+# gretil_sent_id = dn14_61_5
+# text = Nāmarūpanirodhā saḷāyatananirodho
+1-3	Nāmarūpanirodhā	_	_	_	_	_	_	_	_
+1	nāma	nāma	NOUN	_	_	2	compound:dv	_	_
+2	rūpa	rūpa	NOUN	_	_	3	compound:tp	_	_
+3	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+4-5	saḷāyatananirodho	_	_	_	_	_	_	_	_
+4	saḷāyatana	saḷāyatana	NOUN	_	_	5	compound:tp	_	_
+5	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_4
+# gretil_sent_id = dn14_61_6
+# text = Saḷāyatananirodhā phassanirodho
+1-2	Saḷāyatananirodhā	_	_	_	_	_	_	_	_
+1	saḷāyatana	saḷāyatana	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	phassanirodho	_	_	_	_	_	_	_	_
+3	phassa	phassa	NOUN	_	_	4	compound:tp	_	_
+4	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_5
+# gretil_sent_id = dn14_61_7
+# text = Phassanirodhā vedanānirodho
+1-2	Phassanirodhā	_	_	_	_	_	_	_	_
+1	phassa	phassa	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	vedanānirodho	_	_	_	_	_	_	_	_
+3	vedanā	vedanā	NOUN	_	_	4	compound:tp	_	_
+4	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_6
+# gretil_sent_id = dn14_61_8
+# text = Vedanānirodhā taṇhānirodho
+1-2	Vedanānirodhā	_	_	_	_	_	_	_	_
+1	vedanā	vedanā	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	taṇhānirodho	_	_	_	_	_	_	_	_
+3	taṇhā	taṇhā	NOUN	_	_	4	compound:tp	_	_
+4	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_7
+# gretil_sent_id = dn14_61_9
+# text = Taṇhānirodhā upādānanirodho
+1-2	Taṇhānirodhā	_	_	_	_	_	_	_	_
+1	taṇhā	taṇhā	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	upādānanirodho	_	_	_	_	_	_	_	_
+3	upādāna	upādāna	NOUN	_	_	4	compound:tp	_	_
+4	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_8
+# gretil_sent_id = dn14_61_10
+# text = Upādānanirodhā bhavanirodho
+1-2	Upādānanirodhā	_	_	_	_	_	_	_	_
+1	upādāna	upādāna	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	bhavanirodho	_	_	_	_	_	_	_	_
+3	bhava	bhava	NOUN	_	_	4	compound:tp	_	_
+4	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_9
+# gretil_sent_id = dn14_61_11
+# text = Bhavanirodhā jātinirodho
+1-2	Bhavanirodhā	_	_	_	_	_	_	_	_
+1	bhava	bhava	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+3-4	jātinirodho	_	_	_	_	_	_	_	_
+3	jāti	jāti	NOUN	_	_	4	compound:tp	_	_
+4	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.21.3_10
+# gretil_sent_id = dn14_61_12
+# text = Jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti
+1-2	Jātinirodhā	_	_	_	_	_	_	_	_
+1	jāti	jāti	NOUN	_	_	2	compound:tp	_	_
+2	nirodhā	nirodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	_
+3-4	jarāmaraṇaṃ	_	_	_	_	_	_	_	_
+3	jarā	jarā	NOUN	_	_	4	compound:dv	_	_
+4	maraṇaṃ	maraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+5-9	sokaparidevadukkhadomanassupāyāsā	_	_	_	_	_	_	_	_
+5	soka	soka	NOUN	_	_	9	compound:dv	_	_
+6	parideva	parideva	NOUN	_	_	9	compound:dv	_	_
+7	dukkha	dukkha	NOUN	_	_	9	compound:dv	_	_
+8	domanass	domanassa	NOUN	_	_	9	compound:dv	_	_
+9	upāyāsā	upāyāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+10	nirujjhanti	nirujjhati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+
+# sent_id = dn14:2.21.4
+# gretil_sent_id = dn14_61_13
+# text = Evametassa kevalassa dukkhakkhandhassa nirodho hoti
+1	Evam	evaṃ	ADV	_	_	7	advmod	_	SpaceAfter=No
+2	etassa	etad	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+3	kevalassa	kevala	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+4-5	dukkhakkhandhassa	_	_	_	_	_	_	_	_
+4	dukkha	dukkha	NOUN	_	_	5	compound:tp	_	_
+5	khandhassa	khandha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+6	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	hoti	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.21.5
+# gretil_sent_id = dn14_62_1
+# text = Nirodho nirodhoti kho bhikkhave vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi
+1	Nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	ccomp	_	_
+2	nirodho	nirodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	ccomp	_	SpaceAfter=No
+3	ti	iti	PART	_	_	1	mark	_	_
+4	kho	kho	PART	_	_	12	discourse	_	_
+5	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
+6	vipassissa	vipassin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	_
+7	bodhisattassa	bodhisatta	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	appos	_	_
+8	pubbe	pubba	ADJ	_	Case=Loc|Number=Sing	9	obl	_	_
+9	ananussutesu	anussavati	VERB	_	Case=Loc|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	dhammesu	dhamma	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	12	obl	_	_
+11	cakkhuṃ	cakkhu	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+12	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	ñāṇaṃ	ñāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+15	paññā	paññā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+16	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+17	vijjā	vijjā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+18	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+19	āloko	āloka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+20	udapādi	uppajjati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+
+# sent_id = dn14:2.22.1
+# gretil_sent_id = dn14_63_1
+# text = Atha kho bhikkhave vipassī bodhisatto aparena samayena pañcasu upādānakkhandhesu udayabbayānupassī vihāsi
+1	Atha	atha	ADV	_	_	14	advmod	_	_
+2	kho	kho	PART	_	_	14	discourse	_	_
+3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	14	vocative	_	_
+4	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	aparena	apara	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	7	amod	_	_
+7	samayena	samaya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
+8	pañcasu	pañca	NUM	_	Case=Loc|Number=Plur|NumType=Card	10	nummod	_	_
+9-10	upādānakkhandhesu	_	_	_	_	_	_	_	_
+9	upādāna	upādāna	NOUN	_	_	10	compound:tp	_	_
+10	kkhandhesu	khandha	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
+11-13	udayabbayānupassī	_	_	_	_	_	_	_	_
+11	udaya	udaya	NOUN	_	_	12	compound:dv	_	_
+12	bbaya	vaya	NOUN	_	_	13	compound:tp	_	_
+13	ānupassī	anupassin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	14	xcomp	_	_
+14	vihāsi	viharati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = dn14:2.22.2_1
+# gretil_sent_id = dn14_63_2
+# text = Iti rūpaṃ
+1	Iti	iti	ADV	_	_	2	advmod	_	_
+2	rūpaṃ	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.2_2
+# gretil_sent_id = dn14_63_3
+# text = Iti rūpassa samudayo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	rūpassa	rūpa	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	samudayo	samudaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.2_3
+# gretil_sent_id = dn14_63_4
+# text = Iti rūpassa atthaṅgamo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	rūpassa	rūpa	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	atthaṅgamo	atthaṅgama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.3_1
+# gretil_sent_id = dn14_63_5
+# text = Iti vedanā
+1	Iti	iti	ADV	_	_	2	advmod	_	_
+2	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.3_2
+# gretil_sent_id = dn14_63_6
+# text = Iti vedanāya samudayo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	vedanāya	vedanā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+3	samudayo	samudaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.3_3
+# gretil_sent_id = dn14_63_7
+# text = Iti vedanāya atthaṅgamo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	vedanāya	vedanā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+3	atthaṅgamo	atthaṅgama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.4_1
+# gretil_sent_id = dn14_63_8
+# text = Iti saññā
+1	Iti	iti	ADV	_	_	2	advmod	_	_
+2	saññā	saññā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.4_2
+# gretil_sent_id = dn14_63_9
+# text = Iti saññāya samudayo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	saññāya	saññā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+3	samudayo	samudaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.4_3
+# gretil_sent_id = dn14_63_10
+# text = Iti saññāya atthaṅgamo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	saññāya	saññā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+3	atthaṅgamo	atthaṅgama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.5_1
+# gretil_sent_id = dn14_63_11
+# text = Iti saṅkhārā
+1	Iti	iti	ADV	_	_	2	advmod	_	_
+2	saṅkhārā	saṅkhāra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = dn14:2.22.5_2
+# gretil_sent_id = dn14_63_12
+# text = Iti saṅkhārānaṃ samudayo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	saṅkhārānaṃ	saṅkhāra	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	samudayo	samudaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.5_3
+# gretil_sent_id = dn14_63_13
+# text = Iti saṅkhārānaṃ atthaṅgamo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	saṅkhārānaṃ	saṅkhāra	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+3	atthaṅgamo	atthaṅgama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.6_1
+# gretil_sent_id = dn14_63_14
+# text = Iti viññāṇaṃ
+1	Iti	iti	ADV	_	_	2	advmod	_	_
+2	viññāṇaṃ	viññāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.6_2
+# gretil_sent_id = dn14_63_15
+# text = Iti viññāṇassa samudayo
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	viññāṇassa	viññāṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	samudayo	samudaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = dn14:2.22.6_3
+# gretil_sent_id = dn14_63_16
+# text = Iti viññāṇassa atthaṅgamoti
+1	Iti	iti	ADV	_	_	3	advmod	_	_
+2	viññāṇassa	viññāṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	atthaṅgamo	atthaṅgama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	ti	iti	PART	_	_	3	mark	_	_
+
+# sent_id = dn14:2.22.7
+# gretil_sent_id = dn14_63_17
+# text = Tassa pañcasu upādānakkhandhesu udayabbayānupassino viharato na cirasseva anupādāya āsavehi cittaṃ vimuccīti
+1	Tassa	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+2	pañcasu	pañca	NUM	_	Case=Loc|Number=Plur|NumType=Card	4	nummod	_	_
+3-4	upādānakkhandhesu	_	_	_	_	_	_	_	_
+3	upādāna	upādāna	NOUN	_	_	4	compound:tp	_	_
+4	kkhandhesu	khandha	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
+5-7	udayabbayānupassino	_	_	_	_	_	_	_	_
+5	udaya	udaya	NOUN	_	_	6	compound:dv	_	_
+6	bbaya	vaya	NOUN	_	_	7	compound:tp	_	_
+7	ānupassino	anupassin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+8	viharato	viharati	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	_
+9	na	na	PART	_	Polarity=Neg	10	advmod	_	_
+10	cirass	cirassa	ADV	_	_	15	advmod	_	SpaceAfter=No
+11	eva	eva	PART	_	_	10	discourse	_	_
+12	anupādāya	upādiyati	VERB	_	Polarity=Neg|VerbForm=Conv	15	advcl	_	_
+13	āsavehi	āsava	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	15	obl	_	_
+14	cittaṃ	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+15	vimuccī	vimuccati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+16	ti	iti	PART	_	_	15	mark	_	_
+
