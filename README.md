@@ -16,7 +16,7 @@ For sentence ids, we use SuttaCentral's [segment ids](https://suttacentral.net/n
 When we split one SuttaCentral segment into multiple sentences, we append `_1`, `_2`, etc to the end of the segment id to mark the sentence's order within the segment.
 
 This treebank is still a work-in-progress and is being actively updated and expanded.
-We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences all drawn from [the Mahāpadānasutta](https://tipitaka2500.github.io/tipitaka/7D/1/1.2.html) ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=linebyline&reference=main&script=latin)).
+We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences all drawn from [the Mahāpadānasutta](https://tipitaka2500.github.io/tipitaka/7D/1.html) ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=linebyline&reference=main&script=latin)).
 
 # AI Policy
 
