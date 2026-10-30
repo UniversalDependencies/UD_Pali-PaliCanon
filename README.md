@@ -1,12 +1,26 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](https://universaldependencies.org/contributing/repository_files.html#the-readme-file) for README guidelines) ...
+UD_Pali-PaliCanon is the first UD treebank for the Pāli language containing manual annotations of sentences from [the Pāli Canon](https://en.wikipedia.org/wiki/Pali_Canon).  We have only just begun to annotate the Pāli Canon and we welcome help to expand our coverage!
 
+# Description
 
-# Introduction
+We take as our source text the Public Domain, Mahāsaṅgīti edition of the Pāli Canon [widely available online](https://tipitaka2500.github.io/) which is the sacred literature of Theravāda Buddhism.
 
-...
+Following [the UD guidelines for Pāli annotation](https://universaldependencies.org/pi), we strip out all punctuation and normalize the text to the IAST format, i.e. we represent the *niggahīta* with an m-underdot ("ṃ").
+Because the Mahāsaṅgīti edition inconsistently separates sentences, we do not naively trust their punctuation for sentence tokenization but rather split our text into sentences by hand based on syntax.
+We prefer small, syntactically valid sentences over run-ons wherever possible.
+Instead of punctuation, UD Pāli uses a capital letter to represent the start of a new sentence.
 
+For sentence ids, we use SuttaCentral's [segment ids](https://suttacentral.net/numbering?lang=en).
+When we split one SuttaCentral segment into multiple sentences, we append `_1`, `_2`, etc to the end of the segment id to mark its order within the segment.
+
+This treebank is still a work-in-progress and is being actively updated and expanded on a regular basis.
+
+# AI Policy
+
+All contributions to this treebank must be manual annotations as defined by the UD documentation.
+
+In our research (Lin, Singh, and Bhikkhu 2026), even frontier LLMs require [significant hand-holding](https://docs.google.com/document/d/1JuMfqXiSny8o1J4PbzxIazYGqJGlj1x0c4nUf90gqgA/edit?usp=sharing) and careful, manual review to produce accurate CoNLL-U for Pāli.
 
 # Acknowledgments
 
@@ -14,8 +28,7 @@
 
 ## References
 
-* (citation)
-
+* Lin, Chia-Wei, Jasvinder Singh, and Khemarato Bhikkhu. 2026. "PāliUD: Prompt-engineered annotation and philological evaluation for the Pāli Treebank." In Proceedings of the 22nd Conference on Natural Language Processing (KONVENS 2026). Hamburg: University of Hamburg.
 
 # Changelog
 
@@ -29,7 +42,7 @@ Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: TO-BE-SPECIFIED
+Genre: nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
@@ -37,6 +50,6 @@ Features: manual native
 Relations: manual native
 Contributors: Lin, Chia-Wei; Singh, Jasvinder; Bhikkhu, Khemarato
 Contributing: here
-Contact: chia-wei.lin@unil.ch
+Contact: khemarato.bhikkhu@gmail.com
 ===============================================================================
 </pre>
