@@ -5,7 +5,7 @@
 2	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4-5	ekanavutikappe	_	_	_	_	_	_	_	_
-4	ekanavuti	ekanavuti	NUM	_	_	5	compound:kd	_	_
+4	ekanavuti	ekanavuti	NUM	_	NumType=Ord	5	compound:kd	_	_
 5	kappe	kappa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
 6	yaṃ	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	_
 7	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -405,7 +405,7 @@
 12	ahosi	bhavati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	aggaṃ	agga	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	_
 14-15	bhaddayugaṃ	_	_	_	_	_	_	_	_
-14	bhadda	bhadda	ADJ	_	_	15	compound:dv	_	_
+14	bhadda	bhadda	ADJ	_	_	15	compound:kd	_	_
 15	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
 
 # sent_id = dn14:1.9.5
@@ -535,7 +535,7 @@
 5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
-7	ime	ayaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+7	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
 8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	nsubj	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	appos	_	_
@@ -543,7 +543,7 @@
 12	sabbesaṃ	sabba	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	discourse	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
-14	khīṇa	khīṇa	ADJ	_	_	15	compound:kd	_	_
+14	khīṇa	khīṇa	ADJ	_	_	15	compound:bv	_	_
 15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
 
 # sent_id = dn14:1.10.2_1
@@ -607,7 +607,7 @@
 5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
-7	ime	ayaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+7	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
 8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	10	nummod	_	_
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
@@ -615,7 +615,7 @@
 12	sabbesaṃ	sabba	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	discourse	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
-14	khīṇa	khīṇa	ADJ	_	_	15	compound:kd	_	_
+14	khīṇa	khīṇa	ADJ	_	_	15	compound:bv	_	_
 15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
 
 # sent_id = dn14:1.10.4_1
@@ -660,7 +660,7 @@
 2	so	tad	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	13	vocative	_	_
 4-5	ekanavutikappe	_	_	_	_	_	_	_	_
-4	ekanavuti	ekanavuti	NUM	_	NumType=Card	5	compound:dg	_	_
+4	ekanavuti	ekanavuti	NUM	_	NumType=Ord	5	compound:dg	_	_
 5	kappe	kappa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
 6	yaṃ	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	_
 7	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -826,7 +826,7 @@
 5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
-7	ime	ima	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+7	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
 8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	10	nummod	_	_
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -834,7 +834,7 @@
 12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
-14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	15	compound:kd	_	_
+14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	15	compound:bv	_	_
 15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
 
 # sent_id = dn14:1.16.10
@@ -987,7 +987,7 @@
 10	timisā	timisā	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
 11	yattha	yattha	ADV	_	PronType=Rel	24	advmod	_	SpaceAfter=No
 12	p	api	PART	_	_	11	discourse	_	SpaceAfter=No
-13	ime	ima	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+13	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
 14-15	candimasūriyā	_	_	_	_	_	_	_	_
 14	candima	candimas	NOUN	_	_	15	compound:dv	_	_
 15	sūriyā	sūriya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
@@ -1028,7 +1028,7 @@
 8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
 9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
-10	aññaṃ	añña	PRON	_	PronType=Rcp	11	compound:dv	_	_
+10	aññaṃ	añña	PRON	_	PronType=Rcp	11	compound:tp	_	_
 11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
 12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
@@ -1048,7 +1048,7 @@
 # sent_id = dn14:1.17.7_1
 # gretil_sent_id = dn14_18_6
 # text = Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati
-1	Ayañ	ima	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+1	Ayañ	idaṃ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
 2	ca	ca	CCONJ	_	_	7	cc	_	_
 3-4	dasasahassī	_	_	_	_	_	_	_	_
 3	dasa	dasa	NUM	_	NumType=Card	4	compound:dg	_	_
@@ -1159,7 +1159,7 @@
 17	tipātā	atipāta	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	_
 18	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
 19-20	adinnādānā	_	_	_	_	_	_	_	_
-19	adinna	adinna	ADJ	_	_	20	compound:kd	_	_
+19	adinna	adinna	ADJ	_	_	20	compound:tp	_	_
 20	ādānā	ādāna	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	18	obl	_	_
 21	viratā	virata	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
 22	kāmesu	kāma	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
@@ -1222,7 +1222,7 @@
 6	kenaci	kaci	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
 7	purisena	purisa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	obl:agent	_	_
 8-9	rattacittena	_	_	_	_	_	_	_	_
-8	ratta	ratta	ADJ	_	_	9	compound:tp	_	_
+8	ratta	rajjati VERB	_	Tense=Past|VerbForm=Part	9	compound:bv	_	_
 9	cittena	citta	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	7	amod	_	_
 
 # sent_id = dn14:1.19.2
@@ -1306,26 +1306,27 @@
 2	bodhisatta	bodhisatta	NOUN	_	_	3	compound:tp	_	_
 3	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	hoti	bhavati	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-5-6	akilantakāyā	_	_	_	_	_	_	_	_
-5	akilanta	akilanta	ADJ	_	Polarity=Neg	6	compound:kd	_	_
-6	kāyā	kāya	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
-7	bodhisattañ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
-8	ca	ca	CCONJ	_	_	13	cc	_	_
-9-10	bodhisattamātā	_	_	_	_	_	_	_	_
-9	bodhisatta	bodhisatta	NOUN	_	_	10	compound:tp	_	_
-10	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
-11-13	tirokucchigataṃ	_	_	_	_	_	_	_	_
-11	tiro	tiro	ADP	_	_	13	compound:kd	_	_
-12	kucchi	kucchi	NOUN	_	_	13	compound:tp	_	_
-13	gataṃ	gacchati	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
-14	passati	passati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
-15-17	sabbaṅgapaccaṅgiṃ	_	_	_	_	_	_	_	_
-15	sabba	sabba	ADJ	_	_	16	compound:kd	_	_
-16	aṅga	aṅga	NOUN	_	_	17	compound:tp	_	_
-17	paccaṅgiṃ	paccaṅgin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
-18-19	ahīnindriyaṃ	_	_	_	_	_	_	_	_
-18	ahīna	ahīna	ADJ	_	_	19	compound:bv	_	_
-19	indriyaṃ	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	appos	_	_
+5-7	akilantakāyā	_	_	_	_	_	_	_	_
+5	a	na	PART	_	Polarity=Neg	7	compound:na	_	_
+6	kilanta	kilamati	VERB	_	Tense=Past|VerbForm=Part	7	compound:kd	_	_
+7	kāyā	kāya	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+8	bodhisattañ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+9	ca	ca	CCONJ	_	_	14	cc	_	_
+10-11	bodhisattamātā	_	_	_	_	_	_	_	_
+10	bodhisatta	bodhisatta	NOUN	_	_	11	compound:tp	_	_
+11	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+12-14	tirokucchigataṃ	_	_	_	_	_	_	_	_
+12	tiro	tiro	ADP	_	_	14	compound:kd	_	_
+13	kucchi	kucchi	NOUN	_	_	14	compound:tp	_	_
+14	gataṃ	gacchati	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	ccomp	_	_
+15	passati	passati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+16-18	sabbaṅgapaccaṅgiṃ	_	_	_	_	_	_	_	_
+16	sabba	sabba	ADJ	_	_	17	compound:kd	_	_
+17	aṅga	aṅga	NOUN	_	_	18	compound:tp	_	_
+18	paccaṅgiṃ	paccaṅgin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
+19-20	ahīnindriyaṃ	_	_	_	_	_	_	_	_
+19	ahīna	ahīna	ADJ	_	_	20	compound:bv	_	_
+20	indriyaṃ	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	appos	_	_
 
 # sent_id = dn14:1.21.2_1
 # gretil_sent_id = dn14_23_3
@@ -1672,7 +1673,7 @@
 10	timisā	timisā	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
 11	yattha	yattha	ADV	_	PronType=Rel	24	advmod	_	SpaceAfter=No
 12	p	api	PART	_	_	11	discourse	_	SpaceAfter=No
-13	ime	ima	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+13	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
 14-15	candimasūriyā	_	_	_	_	_	_	_	_
 14	candima	candimas	NOUN	_	_	15	compound:dv	_	_
 15	sūriyā	sūriya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
@@ -1713,7 +1714,7 @@
 8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
 9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
-10	aññam	añña	PRON	_	PronType=Rcp	11	compound:dv	_	_
+10	aññam	añña	PRON	_	PronType=Rcp	11	compound:tp	_	_
 11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
 12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
@@ -1733,7 +1734,7 @@
 # sent_id = dn14:1.30.4_1
 # gretil_sent_id = dn14_32_5
 # text = Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati
-1	Ayañ	ima	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+1	Ayañ	idaṃ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
 2	ca	ca	CCONJ	_	_	7	cc	_	_
 3-4	dasasahassī	_	_	_	_	_	_	_	_
 3	dasa	dasa	NUM	_	_	4	compound:dg	_	_
@@ -1773,7 +1774,7 @@
 # text = Katamehi cāyaṃ deva kumāro dvattiṃsamahāpurisalakkhaṇehi samannāgato yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā
 1	Katamehi	katama	DET	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Int	9	det	_	_
 2	c	ca	CCONJ	_	_	10	cc	_	SpaceAfter=No
-3	āyaṃ	ima	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+3	āyaṃ	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 4	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	10	vocative	_	_
 5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 6-9	dvattiṃsamahāpurisalakkhaṇehi	_	_	_	_	_	_	_	_
@@ -1928,7 +1929,7 @@
 # text = Yaṃ pāyaṃ deva kumāro suppatiṭṭhitapādo idampissa mahāpurisassa mahāpurisalakkhaṇaṃ bhavati
 1	Yaṃ	yad	SCONJ	_	_	8	mark	_	_
 2	p	pi	PART	_	_	8	discourse	_	SpaceAfter=No
-3	āyaṃ	ima	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+3	āyaṃ	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 4	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
 5	kumāro	kumāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 6-8	suppatiṭṭhitapādo	_	_	_	_	_	_	_	_
