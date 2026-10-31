@@ -24,10 +24,6 @@ All contributions to this treebank must be manual annotations as defined by the 
 
 In our research (Lin, Singh, and Khemarato 2026), even frontier LLMs require significant [hand-holding](https://docs.google.com/document/d/1JuMfqXiSny8o1J4PbzxIazYGqJGlj1x0c4nUf90gqgA/edit?usp=sharing) and careful, manual review to produce accurate CoNLL-U for Pāli.
 
-# Acknowledgments
-
-...
-
 ## References
 
 * Lin, Chia-Wei, Jasvinder Singh, and Khemarato Bhikkhu. 2026. "PāliUD: Prompt-engineered annotation and philological evaluation for the Pāli Treebank." In Proceedings of the 22nd Conference on Natural Language Processing (KONVENS 2026). Hamburg: University of Hamburg.
