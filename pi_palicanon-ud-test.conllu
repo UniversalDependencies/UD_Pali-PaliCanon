@@ -1213,7 +1213,7 @@
 # sent_id = dn14:1.19.1_2
 # gretil_sent_id = dn14_21_2
 # text = Anatikkamanīyā ca bodhisattamātā hoti kenaci purisena rattacittena
-1	Anatikkamanīyā	atikkamanīya	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	_
+1	Anatikkamanīyā	atikkamati	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	_
 2	ca	ca	CCONJ	_	_	1	cc	_	_
 3-4	bodhisattamātā	_	_	_	_	_	_	_	_
 3	bodhisatta	bodhisatta	NOUN	_	_	4	compound:tp	_	_
