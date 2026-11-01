@@ -5,7 +5,7 @@
 2	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4-5	ekanavutikappe	_	_	_	_	_	_	_	_
-4	ekanavuti	ekanavuti	NUM	_	NumType=Ord	5	compound:kd	_	_
+4	ekanavuti	ekanavuti	NUM	_	NumType=Ord	5	compound:dg	_	_
 5	kappe	kappa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
 6	yaṃ	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	_
 7	vipassī	vipassin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
