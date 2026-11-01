@@ -18,6 +18,10 @@ When we split one SuttaCentral segment into multiple sentences, we append `_1`, 
 This treebank is still a work-in-progress and is being actively updated and expanded.
 We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences all drawn from [the Mahāpadānasutta](https://tipitaka2500.github.io/tipitaka/7D/1.html) ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=linebyline&reference=main&script=latin)).
 
+# Acknowledgement
+
+We would like to thank Dibyajyoti Jana, Henrik Hornecker, and Prof. Dr. Ingo Strauch for sharing their expertise in Indic languages and linguistics, which helped us refine our UD annotation guidelines for Pāli.
+
 # AI Policy
 
 All contributions to this treebank must be manual annotations as defined by the UD documentation.
