@@ -916,7 +916,7 @@
 # sent_id = dn14:1.17.2
 # gretil_sent_id = dn14_17_2
 # text = Ayamettha dhammatā
-1	Ayam	imaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 2	ettha	ettha	ADV	_	_	3	advmod	_	_
 3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
@@ -1079,7 +1079,7 @@
 # sent_id = dn14:1.17.8
 # gretil_sent_id = dn14_18_9
 # text = Ayamettha dhammatā
-1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 2	ettha	ettha	ADV	_	_	3	advmod	_	_
 3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
@@ -1130,7 +1130,7 @@
 # sent_id = dn14:1.17.10
 # gretil_sent_id = dn14_19_3
 # text = Ayamettha dhammatā
-1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 2	ettha	ettha	ADV	_	_	3	advmod	_	_
 3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
@@ -1482,7 +1482,7 @@
 # sent_id = dn14:1.23.2
 # gretil_sent_id = dn14_25_3
 # text = Ayamettha dhammatā
-1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 2	ettha	ettha	ADV	_	_	3	advmod	_	_
 3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
@@ -1765,7 +1765,7 @@
 # sent_id = dn14:1.30.5
 # gretil_sent_id = dn14_32_7
 # text = Ayamettha dhammatā
-1	Ayam	ima	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+1	Ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 2	ettha	ettha	ADV	_	_	3	advmod	_	_
 3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
