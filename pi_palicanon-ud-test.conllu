@@ -754,7 +754,7 @@
 7-8	khaṇḍatissaṃ	_	_	_	_	_	_	_	_
 7	khaṇḍa	khaṇḍa	PROPN	_	_	8	compound:dv	_	_
 8	tissaṃ	tissa	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
-9	nāma	nāman	PART	_	_	8	advmod	_	_
+9	nāma	nāma	PART	_	_	8	advmod	_	_
 10-11	sāvakayugaṃ	_	_	_	_	_	_	_	_
 10	sāvaka	sāvaka	NOUN	_	_	11	compound:tp	_	_
 11	yugaṃ	yuga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
