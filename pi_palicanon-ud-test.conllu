@@ -1222,7 +1222,7 @@
 6	kenaci	kaci	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
 7	purisena	purisa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	obl:agent	_	_
 8-9	rattacittena	_	_	_	_	_	_	_	_
-8	ratta	rajjati VERB	_	Tense=Past|VerbForm=Part	9	compound:bv	_	_
+8	ratta	rajjati	VERB	_	Tense=Past|VerbForm=Part	9	compound:bv	_	_
 9	cittena	citta	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	7	amod	_	_
 
 # sent_id = dn14:1.19.2
