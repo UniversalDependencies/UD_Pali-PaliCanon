@@ -528,23 +528,23 @@
 # sent_id = dn14:1.10.1_5
 # gretil_sent_id = dn14_10_5
 # text = Vipassissa bhikkhave bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṃ sannipātā ahesuṃ sabbesaṃyeva khīṇāsavānaṃ
-1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
-2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	15	vocative	_	_
+1	Vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+2	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	11	vocative	_	_
 3	bhagavato	bhagavant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
 4	arahato	arahant	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
 5-6	sammāsambuddhassa	_	_	_	_	_	_	_	_
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
-7	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
-8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	9	nummod	_	_
-9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	nsubj	_	_
-10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	appos	_	_
-11	ahesuṃ	bhavati	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
-12	sabbesaṃ	sabba	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+7	ime	idaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+8	tayo	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	10	nummod	_	_
+9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	discourse	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīṇa	ADJ	_	_	15	compound:bv	_	_
-15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+15	āsavānaṃ	āsava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
 
 # sent_id = dn14:1.10.2_1
 # gretil_sent_id = dn14_10_6
