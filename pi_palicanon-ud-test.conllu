@@ -1620,7 +1620,7 @@
 2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4	yadā	yadā	ADV	_	_	9	advmod	_	_
-5	bodhisatto	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+5	bodhisatto	bodhisatta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 6-7	mātukucchimhā	_	_	_	_	_	_	_	_
 6	mātu	mātar	NOUN	_	_	7	compound:tp	_	_
 7	kucchimhā	kucchi	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
@@ -1737,8 +1737,8 @@
 1	Ayañ	idaṃ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
 2	ca	ca	CCONJ	_	_	7	cc	_	_
 3-4	dasasahassī	_	_	_	_	_	_	_	_
-3	dasa	dasa	NUM	_	_	4	compound:dg	_	_
-4	sahassī	sahassin	NUM	_	Case=Nom|Gender=Fem|Number=Sing	6	nummod	_	_
+3	dasa	dasa	NUM	_	NumType=Card	4	compound:dg	_	_
+4	sahassī	sahassin	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	6	nummod	_	_
 5-6	lokadhātu	_	_	_	_	_	_	_	_
 5	loka	loka	NOUN	_	_	6	compound:tp	_	_
 6	dhātu	dhātu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
