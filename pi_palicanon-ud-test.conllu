@@ -906,8 +906,8 @@
 6	tusitā	tusita	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	7	amod	_	_
 7	kāyā	kāya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
 8	cavitvā	cavati	VERB	_	VerbForm=Conv	13	advcl	_	_
-9	sato	sarati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
-10	sampajāno	sampajānāti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+9	sato	sarati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+10	sampajāno	sampajānāti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
 11-12	mātukucchiṃ	_	_	_	_	_	_	_	_
 11	mātu	mātar	NOUN	_	_	12	compound:tp	_	_
 12	kucchiṃ	kucchi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl:goal	_	_
@@ -1812,11 +1812,11 @@
 12-14	janapadatthāvariyappatto	_	_	_	_	_	_	_	_
 12	janapada	janapada	NOUN	_	_	13	compound:tp	_	_
 13	thāvariya	thāvariya	NOUN	_	_	14	compound:tp	_	_
-14	ppatto	pāpuṇāti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+14	ppatto	pāpuṇāti	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
 15-17	sattaratanasamannāgato	_	_	_	_	_	_	_	_
 15	satta	satta	NUM	_	NumType=Card	16	compound:dg	_	_
 16	ratana	ratana	NOUN	_	_	17	compound:tp	_	_
-17	samannāgato	samannāgacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+17	samannāgato	samannāgacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
 
 # sent_id = dn14:1.32.3
 # gretil_sent_id = dn14_34_3
