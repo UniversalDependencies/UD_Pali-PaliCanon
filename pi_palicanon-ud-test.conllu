@@ -28,7 +28,7 @@
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
 7-9	vīsativassasahassāni	_	_	_	_	_	_	_	_
-7	vīsati	vīsati	NUM	_	NumType=Card	8	compound:dg	_	_
+7	vīsati	vīsati	NUM	_	NumType=Card	9	compound:dg	_	_
 8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
 9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
 10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
@@ -145,7 +145,7 @@
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
 7-9	asītivassasahassāni	_	_	_	_	_	_	_	_
-7	asīti	asīti	NUM	_	NumType=Card	8	compound:dg	_	_
+7	asīti	asīti	NUM	_	NumType=Card	9	compound:dg	_	_
 8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
 9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
 10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
@@ -164,7 +164,7 @@
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
 7-9	sattativassasahassāni	_	_	_	_	_	_	_	_
-7	sattati	sattati	NUM	_	NumType=Card	8	compound:dg	_	_
+7	sattati	sattati	NUM	_	NumType=Card	9	compound:dg	_	_
 8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
 9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
 10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
@@ -183,7 +183,7 @@
 5	sammā	sammā	ADV	_	_	6	compound:kd	_	_
 6	sambuddhassa	sambuddha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
 7-9	saṭṭhivassasahassāni	_	_	_	_	_	_	_	_
-7	saṭṭhi	saṭṭhi	NUM	_	NumType=Card	8	compound:dg	_	_
+7	saṭṭhi	saṭṭhi	NUM	_	NumType=Card	9	compound:dg	_	_
 8	vassa	vassa	NOUN	_	_	9	compound:tp	_	_
 9	sahassāni	sahassa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
 10-11	āyuppamāṇaṃ	_	_	_	_	_	_	_	_
