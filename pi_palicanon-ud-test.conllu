@@ -1301,7 +1301,7 @@
 
 # sent_id = dn14:1.21.1_2
 # gretil_sent_id = dn14_23_2
-# text = Sukhinī bodhisattamātā hoti akilantakāyā bodhisattañca bodhisattamātā tirokucchigataṃ passati sabbaṅgapaccaṅgiṃ ahīnindriyaṃ
+# text = Sukhinī bodhisattamātā hoti akilantakāyā
 1	Sukhinī	sukhinī	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2-3	bodhisattamātā	_	_	_	_	_	_	_	_
 2	bodhisatta	bodhisatta	NOUN	_	_	3	compound:tp	_	_
@@ -1311,23 +1311,28 @@
 5	a	na	PART	_	Polarity=Neg	7	compound:na	_	_
 6	kilanta	kilamati	VERB	_	Tense=Past|VerbForm=Part	7	compound:kd	_	_
 7	kāyā	kāya	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
-8	bodhisattañ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
-9	ca	ca	CCONJ	_	_	14	cc	_	_
-10-11	bodhisattamātā	_	_	_	_	_	_	_	_
-10	bodhisatta	bodhisatta	NOUN	_	_	11	compound:tp	_	_
-11	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
-12-14	tirokucchigataṃ	_	_	_	_	_	_	_	_
-12	tiro	tiro	ADP	_	_	14	compound:kd	_	_
-13	kucchi	kucchi	NOUN	_	_	14	compound:tp	_	_
-14	gataṃ	gacchati	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	ccomp	_	_
-15	passati	passati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
-16-18	sabbaṅgapaccaṅgiṃ	_	_	_	_	_	_	_	_
-16	sabba	sabba	ADJ	_	_	17	compound:kd	_	_
-17	aṅga	aṅga	NOUN	_	_	18	compound:tp	_	_
-18	paccaṅgiṃ	paccaṅgin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
-19-20	ahīnindriyaṃ	_	_	_	_	_	_	_	_
-19	ahīna	ahīna	ADJ	_	_	20	compound:bv	_	_
-20	indriyaṃ	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	appos	_	_
+
+# sent_id = dn14:1.21.1_3
+# gretil_sent_id = dn14_23_3
+# text = Bodhisattañca bodhisattamātā tirokucchigataṃ passati sabbaṅgapaccaṅgiṃ ahīnindriyaṃ
+1	Bodhisattañ	bodhisatta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+2	ca	ca	CCONJ	_	_	8	cc	_	_
+3-4	bodhisattamātā	_	_	_	_	_	_	_	_
+3	bodhisatta	bodhisatta	NOUN	_	_	4	compound:tp	_	_
+4	mātā	mātar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+5-7	tirokucchigataṃ	_	_	_	_	_	_	_	_
+5	tiro	tiro	ADP	_	_	7	compound:kd	_	_
+6	kucchi	kucchi	NOUN	_	_	7	compound:tp	_	_
+7	gataṃ	gacchati	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+8	passati	passati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-11	sabbaṅgapaccaṅgiṃ	_	_	_	_	_	_	_	_
+9	sabba	sabba	ADJ	_	_	10	compound:kd	_	_
+10	aṅga	aṅga	NOUN	_	_	11	compound:tp	_	_
+11	paccaṅgiṃ	paccaṅgin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	_
+12-14	ahīnindriyaṃ	_	_	_	_	_	_	_	_
+12	a	na	PART	_	Polarity=Neg	13	compound:na	_	_
+13	hīna	jahati	VERB	_	Tense=Past|VerbForm=Part	14	compound:bv	_	_
+14	indriya	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	_
 
 # sent_id = dn14:1.21.2_1
 # gretil_sent_id = dn14_23_3
@@ -1553,9 +1558,9 @@
 2	ettha	ettha	ADV	_	_	3	advmod	_	_
 3	dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
-# sent_id = dn14:1.29.1
-# gretil_sent_id = dn14_31_1
-# text = Dhammatā esā bhikkhave sampatijāto bodhisatto samehi pādehi patiṭṭhahitvā uttarābhimukho sattapadavītihārena gacchati setamhi chatte anudhāriyamāne sabbā ca disā anuviloketi āsabhiṃ vācaṃ bhāsati aggohamasmi lokassa jeṭṭhohamasmi lokassa seṭṭhohamasmi lokassa ayamantimā jāti natthi dāni punabbhavoti
+# sent_id = dn14:1.29.1_1
+# gretil_sent_id = dn14_31_1_1
+# text = Dhammatā esā bhikkhave sampatijāto bodhisatto samehi pādehi patiṭṭhahitvā uttarābhimukho sattapadavītihārena gacchati setamhi chatte anudhāriyamāne
 1	Dhammatā	dhammatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
@@ -1577,35 +1582,43 @@
 16	setamhi	seta	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	17	amod	_	_
 17	chatte	chatta	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	18	nsubj	_	_
 18	anudhāriyamāne	anudhāreti	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	15	advcl	_	_
-19	sabbā	sabba	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	21	amod	_	_
-20	ca	ca	CCONJ	_	_	22	cc	_	_
-21	disā	disā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	22	obj	_	_
-22	anuviloketi	anuviloketi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
-23	āsabhiṃ	āsabhi	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	24	amod	_	_
-24	vācaṃ	vācā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obj	_	_
-25	bhāsati	bhāsati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
-26	aggo	agga	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	25	ccomp	_	SpaceAfter=No
-27	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	SpaceAfter=No
-28	asmi	atthi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	_
-29	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
-30	jeṭṭho	jeṭṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	26	parataxis	_	SpaceAfter=No
-31	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	SpaceAfter=No
-32	asmi	atthi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	_
-33	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
-34	seṭṭho	seṭṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	26	parataxis	_	SpaceAfter=No
-35	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	SpaceAfter=No
-36	asmi	atthi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	_
-37	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
-38	ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	40	nsubj	_	SpaceAfter=No
-39	antimā	antima	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	40	amod	_	_
-40	jāti	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	parataxis	_	_
-41	n	na	PART	_	Polarity=Neg	42	advmod	_	SpaceAfter=No
-42	atthi	atthi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	parataxis	_	_
-43	dāni	idāni	ADV	_	_	42	advmod	_	_
-44-45	punabbhavo	_	_	_	_	_	_	_	SpaceAfter=No
-44	puna	puna	ADV	_	_	45	compound:av	_	_
-45	bbhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	42	nsubj	_	_
-46	ti	iti	PART	_	_	26	mark	_	_
+
+# sent_id = dn14:1.29.1_2
+# gretil_sent_id = dn14_31_1_2
+# text = Sabbā ca disā anuviloketi āsabhiṃ vācaṃ bhāsati
+1	Sabbā	sabba	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	_
+2	ca	ca	CCONJ	_	_	4	cc	_	_
+3	disā	disā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+4	anuviloketi	anuviloketi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	āsabhiṃ	āsabhi	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+6	vācaṃ	vācā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+7	bhāsati	bhāsati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+
+# sent_id = dn14:1.29.1_3
+# gretil_sent_id = dn14_31_1_3
+# text = Aggohamasmi lokassa jeṭṭhohamasmi lokassa seṭṭhohamasmi lokassa ayamantimā jāti natthi dāni punabbhavoti
+1	Aggo	agga	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	SpaceAfter=No
+3	asmi	atthi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	jeṭṭho	jeṭṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
+6	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+7	asmi	atthi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+8	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+9	seṭṭho	seṭṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
+10	ham	ahaṃ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+11	asmi	atthi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+12	lokassa	loka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+13	ayam	idaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	15	nsubj	_	SpaceAfter=No
+14	antimā	antima	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	15	amod	_	_
+15	jāti	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	_
+16	n	na	PART	_	Polarity=Neg	17	advmod	_	SpaceAfter=No
+17	atthi	atthi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+18	dāni	idāni	ADV	_	_	17	advmod	_	_
+19-20	punabbhavo	_	_	_	_	_	_	_	SpaceAfter=No
+19	puna	puna	ADV	_	_	20	compound:av	_	_
+20	bbhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+21	ti	iti	PART	_	_	1	mark	_	_
 
 # sent_id = dn14:1.29.2
 # gretil_sent_id = dn14_31_2
