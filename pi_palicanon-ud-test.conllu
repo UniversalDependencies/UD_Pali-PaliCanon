@@ -1330,8 +1330,8 @@
 10	aṅga	aṅga	NOUN	_	_	11	compound:tp	_	_
 11	paccaṅgiṃ	paccaṅgin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	_
 12-14	ahīnindriyaṃ	_	_	_	_	_	_	_	_
-12	a	na	PART	_	Polarity=Neg	14	compound:na	_	_
-13	hīna	jahati	VERB	_	Tense=Past|VerbForm=Part	14	compound:kd	_	_
+12	a	na	PART	_	Polarity=Neg	13	compound:na	_	_
+13	hīna	jahati	VERB	_	Tense=Past|VerbForm=Part	14	compound:bv	_	_
 14	indriya	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	_
 
 # sent_id = dn14:1.21.2_1
