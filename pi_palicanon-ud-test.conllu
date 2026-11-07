@@ -540,7 +540,7 @@
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+12	sabbesaṃ	sabbaṃ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part	15	compound:bv	_	_
@@ -612,7 +612,7 @@
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+12	sabbesaṃ	sabbaṃ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part	15	compound:bv	_	_
@@ -832,7 +832,7 @@
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+12	sabbesaṃ	sabbaṃ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	15	compound:bv	_	_
@@ -1029,14 +1029,14 @@
 8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
 9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
-10	aññaṃ	añña	PRON	_	PronType=Rcp	11	compound:tp	_	_
-11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
+10	aññaṃ	aññaṃ	PRON	_	PronType=Rcp	11	compound:tp	_	_
+11	aññaṃ	aññaṃ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
 12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = dn14:1.17.6_2
 # gretil_sent_id = dn14_18_5
 # text = Aññepi kira bho santi sattā idhūpapannāti
-1	Aññe	añña	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	SpaceAfter=No
+1	Aññe	aññaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	SpaceAfter=No
 2	pi	api	PART	_	_	1	discourse	_	_
 3	kira	kira	PART	_	_	8	discourse	_	_
 4	bho	bho	PART	_	_	8	discourse	_	_
@@ -1381,7 +1381,7 @@
 # gretil_sent_id = dn14_23_5
 # text = Tamenaṃ cakkhumā puriso hatthe karitvā paccavekkheyya
 1	Tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	SpaceAfter=No
-2	enaṃ	ena	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	1	appos	_	_
+2	enaṃ	etad	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	1	appos	_	_
 3	cakkhumā	cakkhumant	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
 4	puriso	purisa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 5	hatthe	hattha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
@@ -1451,7 +1451,7 @@
 2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4	yathā	yathā	ADV	_	PronType=Rel	15	advmod	_	_
-5	aññā	añña	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+5	aññā	aññaṃ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	itthikā	itthikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
 7	nava	nava	NUM	_	Case=Acc|Number=Plur|NumType=Card	11	nummod	_	_
 8	vā	vā	CCONJ	_	_	7	cc	_	_
@@ -1499,7 +1499,7 @@
 2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4	yathā	yathā	ADV	_	PronType=Rel	11	advmod	_	_
-5	aññā	añña	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+5	aññā	aññaṃ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	itthikā	itthikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
 7	nisinnā	nisīdati	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
 8	vā	vā	CCONJ	_	_	7	cc	_	_
@@ -1728,8 +1728,8 @@
 8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
 9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
-10	aññam	añña	PRON	_	PronType=Rcp	11	compound:tp	_	_
-11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
+10	aññam	aññaṃ	PRON	_	PronType=Rcp	11	compound:tp	_	_
+11	aññaṃ	aññaṃ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
 12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = dn14:1.30.3_2
@@ -1806,7 +1806,7 @@
 16	va	eva	PART	_	_	15	advmod	_	_
 17	gatiyo	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
 18	bhavanti	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
-19	anaññā	añña	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Polarity=Neg|PronType=Ind	17	amod	_	_
+19	anaññā	aññaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Polarity=Neg|PronType=Ind	17	amod	_	_
 
 # sent_id = dn14:1.32.2
 # gretil_sent_id = dn14_34_2
@@ -2089,7 +2089,7 @@
 # text = Yuttāni kho te deva bhaddāni bhaddāni yānāni
 1	Yuttāni	yuñjati	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	kho	kho	PART	_	_	1	discourse	_	_
-3	te	tvaṃ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+3	te	tad	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 4	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
 5	bhaddāni	bhadda	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	_
 6	bhaddāni	bhadda	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	_
@@ -2281,7 +2281,7 @@
 # sent_id = dn14:2.18.5_1
 # gretil_sent_id = dn14_57_6
 # text = Kimhi nu kho sati jarāmaraṇaṃ hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	7	discourse	_	_
 3	kho	kho	PART	_	_	7	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
@@ -2294,7 +2294,7 @@
 # gretil_sent_id = dn14_57_7
 # text = Kiṃpaccayā jarāmaraṇanti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
 3-4	jarāmaraṇan	_	_	_	_	_	_	_	SpaceAfter=No
 3	jarā	jarā	NOUN	_	_	4	compound:dv	_	_
@@ -2351,7 +2351,7 @@
 # sent_id = dn14:2.18.9_1
 # gretil_sent_id = dn14_57_12
 # text = Kimhi nu kho sati jāti hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2362,7 +2362,7 @@
 # gretil_sent_id = dn14_57_13
 # text = Kiṃpaccayā jātīti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	jātī	jāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2413,7 +2413,7 @@
 # sent_id = dn14:2.18.13_1
 # gretil_sent_id = dn14_57_18
 # text = Kimhi nu kho sati bhavo hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2424,7 +2424,7 @@
 # gretil_sent_id = dn14_57_19
 # text = Kiṃpaccayā bhavoti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	bhavo	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2475,7 +2475,7 @@
 # sent_id = dn14:2.18.17_1
 # gretil_sent_id = dn14_57_24
 # text = Kimhi nu kho sati upādānaṃ hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2486,7 +2486,7 @@
 # gretil_sent_id = dn14_57_25
 # text = Kiṃpaccayā upādānanti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	upādānan	upādāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2537,7 +2537,7 @@
 # sent_id = dn14:2.18.21_1
 # gretil_sent_id = dn14_57_30
 # text = Kimhi nu kho sati taṇhā hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2548,7 +2548,7 @@
 # gretil_sent_id = dn14_57_31
 # text = Kiṃpaccayā taṇhāti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	taṇhā	taṇhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2599,7 +2599,7 @@
 # sent_id = dn14:2.18.25_1
 # gretil_sent_id = dn14_57_36
 # text = Kimhi nu kho sati vedanā hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2610,7 +2610,7 @@
 # gretil_sent_id = dn14_57_37
 # text = Kiṃpaccayā vedanāti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	advcl	_	_
 3	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2663,7 +2663,7 @@
 # sent_id = dn14:2.18.29_1
 # gretil_sent_id = dn14_57_42
 # text = Kimhi nu kho sati phasso hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2674,7 +2674,7 @@
 # gretil_sent_id = dn14_57_43
 # text = Kiṃpaccayā phassoti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	phasso	phassa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2725,7 +2725,7 @@
 # sent_id = dn14:2.18.33_1
 # gretil_sent_id = dn14_57_48
 # text = Kimhi nu kho sati saḷāyatanaṃ hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2736,7 +2736,7 @@
 # gretil_sent_id = dn14_57_49
 # text = Kiṃpaccayā saḷāyatananti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	saḷāyatanan	saḷāyatana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
@@ -2790,7 +2790,7 @@
 # sent_id = dn14:2.18.37_1
 # gretil_sent_id = dn14_57_54
 # text = Kimhi nu kho sati nāmarūpaṃ hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	7	discourse	_	_
 3	kho	kho	PART	_	_	7	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
@@ -2803,7 +2803,7 @@
 # gretil_sent_id = dn14_57_55
 # text = Kiṃpaccayā nāmarūpanti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
 3-4	nāmarūpan	_	_	_	_	_	_	_	SpaceAfter=No
 3	nāma	nāma	NOUN	_	_	4	compound:dv	_	_
@@ -2860,7 +2860,7 @@
 # sent_id = dn14:2.18.41_1
 # gretil_sent_id = dn14_57_60
 # text = Kimhi nu kho sati viññāṇaṃ hoti
-1	Kimhi	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
+1	Kimhi	kiṃ	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
 2	nu	nu	PART	_	_	6	discourse	_	_
 3	kho	kho	PART	_	_	6	discourse	_	_
 4	sati	atthi	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
@@ -2871,7 +2871,7 @@
 # gretil_sent_id = dn14_57_61
 # text = Kiṃpaccayā viññāṇanti
 1-2	Kiṃpaccayā	_	_	_	_	_	_	_	_
-1	Kiṃ	ka	PRON	_	PronType=Int	2	compound:tp	_	_
+1	Kiṃ	kiṃ	PRON	_	PronType=Int	2	compound:tp	_	_
 2	paccayā	paccaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
 3	viññāṇan	viññāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	ti	iti	PART	_	_	3	mark	_	_
