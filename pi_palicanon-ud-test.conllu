@@ -540,7 +540,7 @@
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-12	sabbesaṃ	sabbaṃ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part	15	compound:bv	_	_
@@ -612,7 +612,7 @@
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-12	sabbesaṃ	sabbaṃ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part	15	compound:bv	_	_
@@ -832,7 +832,7 @@
 9	sāvakānaṃ	sāvaka	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 10	sannipātā	sannipāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	ahesuṃ	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-12	sabbesaṃ	sabbaṃ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
+12	sabbesaṃ	sabba	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	15	det	_	SpaceAfter=No
 13	yeva	eva	PART	_	_	12	advmod	_	_
 14-15	khīṇāsavānaṃ	_	_	_	_	_	_	_	_
 14	khīṇa	khīyati	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	15	compound:bv	_	_
@@ -1029,14 +1029,14 @@
 8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
 9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
-10	aññaṃ	aññaṃ	PRON	_	PronType=Rcp	11	compound:tp	_	_
-11	aññaṃ	aññaṃ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
+10	aññaṃ	añña	PRON	_	PronType=Rcp	11	compound:tp	_	_
+11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
 12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = dn14:1.17.6_2
 # gretil_sent_id = dn14_18_5
 # text = Aññepi kira bho santi sattā idhūpapannāti
-1	Aññe	aññaṃ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	SpaceAfter=No
+1	Aññe	añña	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	SpaceAfter=No
 2	pi	api	PART	_	_	1	discourse	_	_
 3	kira	kira	PART	_	_	8	discourse	_	_
 4	bho	bho	PART	_	_	8	discourse	_	_
@@ -1451,7 +1451,7 @@
 2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4	yathā	yathā	ADV	_	PronType=Rel	15	advmod	_	_
-5	aññā	aññaṃ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+5	aññā	añña	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	itthikā	itthikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
 7	nava	nava	NUM	_	Case=Acc|Number=Plur|NumType=Card	11	nummod	_	_
 8	vā	vā	CCONJ	_	_	7	cc	_	_
@@ -1499,7 +1499,7 @@
 2	esā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4	yathā	yathā	ADV	_	PronType=Rel	11	advmod	_	_
-5	aññā	aññaṃ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+5	aññā	añña	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	itthikā	itthikā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
 7	nisinnā	nisīdati	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
 8	vā	vā	CCONJ	_	_	7	cc	_	_
@@ -1728,8 +1728,8 @@
 8	ten	tad	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No
 9	obhāsena	obhāsa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 10-11	aññamaññaṃ	_	_	_	_	_	_	_	_
-10	aññam	aññaṃ	PRON	_	PronType=Rcp	11	compound:tp	_	_
-11	aññaṃ	aññaṃ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
+10	aññam	añña	PRON	_	PronType=Rcp	11	compound:tp	_	_
+11	aññaṃ	añña	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rcp	12	obj	_	_
 12	sañjānanti	sañjānāti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = dn14:1.30.3_2
@@ -1806,7 +1806,7 @@
 16	va	eva	PART	_	_	15	advmod	_	_
 17	gatiyo	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
 18	bhavanti	bhavati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
-19	anaññā	aññaṃ	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Polarity=Neg|PronType=Ind	17	amod	_	_
+19	anaññā	añña	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Polarity=Neg|PronType=Ind	17	amod	_	_
 
 # sent_id = dn14:1.32.2
 # gretil_sent_id = dn14_34_2
