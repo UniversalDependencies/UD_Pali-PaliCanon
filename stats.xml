@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>225</sentences><tokens>1719</tokens><words>2051</words><fused>274</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>225</sentences><tokens>1719</tokens><words>2051</words><fused>274</fused></test>
+  </size>
+  <lemmas unique="416" /><!-- bhavati, bhikkhu, bodhisatta, kho, vipassin, iti, arahant, sambuddha, sammā, bhagavant, idaṃ, atha, atthi, dhammatā, etad -->
+  <forms unique="625" /><!-- bhikkhave, kho, ahosi, sammā, vipassissa, hoti, ti, atha, dhammatā, nāma, bodhisattassa, arahato, bhagavato, sambuddhassa, arahaṃ -->
+  <fusions unique="147" /><!-- sammāsambuddhassa, sammāsambuddho, Kiṃpaccayā, bodhisattamātā, bhaddayugaṃ, mātukucchiṃ, sāvakayugaṃ, devānubhāvaṃ, āyuppamāṇaṃ, asītibhikkhusahassāni, bhikkhusatasahassaṃ, bodhisattamātu, jarāmaraṇaṃ, khīṇāsavānaṃ, Nāmarūpanirodhā -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">148</tag><!-- bhadda, agga, sa, mahant, appamāṇa, uḷāra, virata, bahu, sabba, agha -->
+    <tag name="ADP">1</tag><!-- tiro -->
+    <tag name="ADV">166</tag><!-- sammā, atha, iti, ettha, evaṃ, yoniso, yadā, etarahi, tattha, su -->
+    <tag name="AUX">39</tag><!-- bhavati, atthi -->
+    <tag name="CCONJ">29</tag><!-- vā, ca -->
+    <tag name="DET">38</tag><!-- idaṃ, tad, añña, kiñci, sabba, yad, etad, katama -->
+    <tag name="NOUN">929</tag><!-- bhikkhu, bodhisatta, arahant, sambuddha, bhagavant, dhammatā, mātar, sāvaka, nirodha, deva -->
+    <tag name="NUM">77</tag><!-- eka, sahassa, ti, sata, asīti, pañca, dasa, catur, satta, aṭṭhasaṭṭhi -->
+    <tag name="PART">178</tag><!-- kho, iti, eva, api, na, nāma, nu, hi, kira, pana -->
+    <tag name="PRON">98</tag><!-- etad, ka, idaṃ, tad, ahaṃ, yad, añña, ena, kiñci, tvaṃ -->
+    <tag name="PROPN">103</tag><!-- vipassin, kassapa, sikhin, kakusandha, koṇḍañña, vessabhū, bandhumant, bandhumatī, koṇāgamana, tissa -->
+    <tag name="SCONJ">3</tag><!-- sace, yad -->
+    <tag name="VERB">242</tag><!-- bhavati, atthi, uppajjati, abhisambujjhati, okkamati, atikkamati, pātubhavati, upapajjati, vijāyati, gacchati -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="40">
+    <feat name="Case" value="Abl" upos="ADJ,NOUN">55</feat><!-- paccayā, nirodhā, manasikārā, agārasmā, kucchimhā, kāyā, tusitā, cārā, kārā, tipātā -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">88</feat><!-- kucchiṃ, bodhisattaṃ, ānubhāvaṃ, bhaddāni, anagāriyaṃ, ekaṃ, aññaṃ, bhaddaṃ, bhūmiṃ, kālaṃ -->
+    <feat name="Case" value="Dat" upos="NOUN,PRON,PROPN">90</feat><!-- vipassissa, bodhisattassa, arahato, bhagavato, sambuddhassa, Sikhissa, Bandhumassa, Kakusandhassa, Mayhaṃ, dassanāyā -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">141</feat><!-- sāvakānaṃ, arahato, bhagavato, sambuddhassa, vipassissa, devānaṃ, bahūnaṃ, lokassa, mātu, sabbesaṃ -->
+    <feat name="Case" value="Gen,Loc" upos="NOUN,PROPN">2</feat><!-- bandhumatiyā, dhāniyā -->
+    <feat name="Case" value="Ins" upos="ADJ,DET,NOUN,NUM,PRON">51</feat><!-- paññāya, gottena, bhaddehi, kucchinā, obhāsena, ten, ābhāya, Katamehi, accayena, adaṇḍena -->
+    <feat name="Case" value="Loc" upos="ADJ,NOUN,NUM,PRON,VERB">87</feat><!-- sati, Kimhi, mūle, loke, brahmake, brāhmaṇiyā, devake, kappe, kkhandhesu, manussāya -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">588</feat><!-- dhammatā, arahaṃ, sambuddho, bhagavā, yugaṃ, ayam, vipassī, bodhisatto, esā, etad -->
+    <feat name="Case" value="Voc" upos="NOUN">94</feat><!-- bhikkhave, deva, devā, sārathi -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">188</feat><!-- dhammatā, ayam, esā, mātā, paññāya, kucchiṃ, vedanā, viratā, taṇhā, jāti -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">747</feat><!-- bhikkhave, vipassissa, bodhisattassa, arahato, bhagavato, sambuddhassa, arahaṃ, paccayā, sambuddho, bhagavā -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">245</feat><!-- yugaṃ, sati, etad, sahassāni, Kimhi, aggaṃ, gottena, mūle, bhaddāni, ratanaṃ -->
+    <feat name="Mood" value="Imp" upos="PART,VERB">3</feat><!-- Mā, Yojehi, gacchāma -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">178</feat><!-- ahosi, hoti, ahu, udapādi, ahesuṃ, pātubhavati, vijāyati, asmi, bhavanti, uppajjati -->
+    <feat name="Mood" value="Opt" upos="VERB">1</feat><!-- paccavekkheyya -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">282</feat><!-- bhikkhave, sāvakānaṃ, sahassāni, tayo, ahesuṃ, bhaddāni, devānaṃ, sannipātā, ime, sattā -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1095</feat><!-- ahosi, vipassissa, hoti, dhammatā, bodhisattassa, arahato, bhagavato, sambuddhassa, arahaṃ, paccayā -->
+    <feat name="NumType" value="Card" upos="NOUN,NUM">77</feat><!-- eko, sahassāni, tayo, sahassaṃ, asīti, sata, dasa, satta, aṭṭhasaṭṭhi, cattāro -->
+    <feat name="NumType" value="Ord" upos="NUM">3</feat><!-- ekanavuti, sattamaṃ -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">14</feat><!-- Mayhaṃ, asmi, ham, Ahaṃ, ahosiṃ, gacchāma, my -->
+    <feat name="Person" value="2" upos="PRON,VERB">3</feat><!-- Yojehi, maññasī, te -->
+    <feat name="Person" value="3" upos="AUX,VERB">174</feat><!-- ahosi, hoti, ahu, udapādi, ahesuṃ, pātubhavati, vijāyati, bhavanti, uppajjati, ajjhāvasati -->
+    <feat name="Polarity" value="Neg" upos="NOUN,PART,PRON,VERB">25</feat><!-- na, anagāriyaṃ, a, nā, Anatikkamanīyā, Mā, adaṇḍena, ananussutesu, anaññā, anupādāya -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">84</feat><!-- ayam, esā, etad, ime, so, āyaṃ, Ayañ, tattha, idaṃ, imassa -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">8</feat><!-- aññā, kocid, Aññe, anaññā, kenaci, koci -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">22</feat><!-- Kimhi, Kiṃ, Katamehi, Kudā -->
+    <feat name="PronType" value="Prs" upos="PRON">11</feat><!-- Mayhaṃ, ham, Ahaṃ, Sā, my, te -->
+    <feat name="PronType" value="Rcp" upos="PRON">4</feat><!-- aññaṃ, aññam -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">18</feat><!-- yadā, yattha, Ye, Yā, yathā, yaṃ, Yassa, Yo, yad, yehi -->
+    <feat name="PronType" value="Tot" upos="DET">3</feat><!-- sabbesaṃ -->
+    <feat name="Tense" value="Fut" upos="VERB">2</feat><!-- Anatikkamanīyā, paññāyissati -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">135</feat><!-- ahosi, ahu, udapādi, abhisambuddho, ahesuṃ, okkanto, khīṇa, pabbajito, patiṭṭhita, samannāgato -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">119</feat><!-- hoti, sati, pātubhavati, vijāyati, asmi, bhavanti, uppajjati, ajjhāvasati, nikkhamati, nubhonti -->
+    <feat name="VerbForm" value="Conv" upos="VERB">22</feat><!-- atikkamm, acchādetvā, cavitvā, ohāretvā, pariharitvā, Sutvāna, abhiruhitvā, abhivijiya, anupādāya, karitvā -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">181</feat><!-- ahosi, hoti, ahu, udapādi, ahesuṃ, pātubhavati, vijāyati, asmi, bhavanti, uppajjati -->
+    <feat name="VerbForm" value="Part" upos="VERB">76</feat><!-- sati, abhisambuddho, okkanto, khīṇa, pabbajito, patiṭṭhita, samannāgato, upapannā, ūpapannā, Adhigato -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">182</feat><!-- ahosi, hoti, sati, ahu, udapādi, okkanto, pātubhavati, vijāyati, asmi, bhavanti -->
+    <feat name="Voice" value="Cau" upos="VERB">3</feat><!-- anudhāriyamāne, paricārayamāno, upaṭṭhāpesi -->
+    <feat name="Voice" value="CauCau" upos="VERB">1</feat><!-- kārāpesi -->
+    <feat name="Voice" value="Pass" upos="VERB">24</feat><!-- abhisambuddho, patiṭṭhita, samannāgato, Adhigato, Anatikkamanīyā, Yuttāni, ananussutesu, jāto, khīṇa, nirujjhanti -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="35">
+    <dep name="acl">10</dep>
+    <dep name="acl:relcl">6</dep>
+    <dep name="advcl">73</dep>
+    <dep name="advmod">149</dep>
+    <dep name="amod">88</dep>
+    <dep name="appos">182</dep>
+    <dep name="aux">7</dep>
+    <dep name="cc">29</dep>
+    <dep name="ccomp">14</dep>
+    <dep name="compound:av">2</dep>
+    <dep name="compound:bv">17</dep>
+    <dep name="compound:dg">28</dep>
+    <dep name="compound:dv">44</dep>
+    <dep name="compound:kd">81</dep>
+    <dep name="compound:na">2</dep>
+    <dep name="compound:tp">159</dep>
+    <dep name="conj">56</dep>
+    <dep name="cop">32</dep>
+    <dep name="det">38</dep>
+    <dep name="discourse">103</dep>
+    <dep name="dislocated">1</dep>
+    <dep name="mark">36</dep>
+    <dep name="nmod">86</dep>
+    <dep name="nsubj">232</dep>
+    <dep name="nsubj:pass">2</dep>
+    <dep name="nummod">32</dep>
+    <dep name="obj">33</dep>
+    <dep name="obl">161</dep>
+    <dep name="obl:agent">2</dep>
+    <dep name="obl:goal">13</dep>
+    <dep name="orphan">1</dep>
+    <dep name="parataxis">4</dep>
+    <dep name="root">225</dep>
+    <dep name="vocative">94</dep>
+    <dep name="xcomp">9</dep>
+  </deps>
+</treebank>
