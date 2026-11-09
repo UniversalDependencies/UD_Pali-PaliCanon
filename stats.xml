@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>225</sentences><tokens>1719</tokens><words>2051</words><fused>274</fused></test>
   </size>
-  <lemmas unique="416" /><!-- bhavati, bhikkhu, bodhisatta, kho, vipassin, iti, arahant, sambuddha, sammā, bhagavant, idaṃ, atha, atthi, dhammatā, etad -->
+  <lemmas unique="414" /><!-- bhavati, bhikkhu, bodhisatta, kho, vipassin, iti, arahant, sambuddha, sammā, bhagavant, idaṃ, atha, atthi, etad, dhammatā -->
   <forms unique="625" /><!-- bhikkhave, kho, ahosi, sammā, vipassissa, hoti, ti, atha, dhammatā, nāma, bodhisattassa, arahato, bhagavato, sambuddhassa, arahaṃ -->
   <fusions unique="147" /><!-- sammāsambuddhassa, sammāsambuddho, Kiṃpaccayā, bodhisattamātā, bhaddayugaṃ, mātukucchiṃ, sāvakayugaṃ, devānubhāvaṃ, āyuppamāṇaṃ, asītibhikkhusahassāni, bhikkhusatasahassaṃ, bodhisattamātu, jarāmaraṇaṃ, khīṇāsavānaṃ, Nāmarūpanirodhā -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -24,7 +24,7 @@
     <tag name="NOUN">929</tag><!-- bhikkhu, bodhisatta, arahant, sambuddha, bhagavant, dhammatā, mātar, sāvaka, nirodha, deva -->
     <tag name="NUM">77</tag><!-- eka, sahassa, ti, sata, asīti, pañca, dasa, catur, satta, aṭṭhasaṭṭhi -->
     <tag name="PART">178</tag><!-- kho, iti, eva, api, na, nāma, nu, hi, kira, pana -->
-    <tag name="PRON">98</tag><!-- etad, ka, idaṃ, tad, ahaṃ, yad, añña, ena, kiñci, tvaṃ -->
+    <tag name="PRON">98</tag><!-- etad, kiṃ, idaṃ, tad, ahaṃ, yad, añña, kiñci -->
     <tag name="PROPN">103</tag><!-- vipassin, kassapa, sikhin, kakusandha, koṇḍañña, vessabhū, bandhumant, bandhumatī, koṇāgamana, tissa -->
     <tag name="SCONJ">3</tag><!-- sace, yad -->
     <tag name="VERB">242</tag><!-- bhavati, atthi, uppajjati, abhisambujjhati, okkamati, atikkamati, pātubhavati, upapajjati, vijāyati, gacchati -->
