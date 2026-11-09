@@ -1581,7 +1581,7 @@
 15	gacchati	gacchati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 16	setamhi	seta	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	17	amod	_	_
 17	chatte	chatta	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	18	nsubj	_	_
-18	anudhāriyamāne	unadhāriyati	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	15	advcl	_	_
+18	anudhāriyamāne	anudhāreti	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	15	advcl	_	_
 
 # sent_id = dn14:1.29.1_2
 # gretil_sent_id = dn14_31_1_2
