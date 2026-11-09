@@ -5,7 +5,7 @@ UD_Pali-PaliCanon is the first UD-native treebank for the manual annotation of s
 # Description
 
 The Pāli Canon is Theravāda Buddhism's closed corpus of scripture. 
-In this repository, we take as our source the Public Domain, Mahāsaṅgīti edition [widely available online](https://tipitaka2500.github.io/), though other editions are also available and are broadly similar.
+In this repository, we take as our source the Public Domain, Mahāsaṅgīti edition, though other editions are also available and are broadly similar.
 
 Following [the UD guidelines for Pāli annotation](https://universaldependencies.org/pi), we strip out all punctuation and normalize the text to the IAST format, i.e. we represent the *niggahīta* with an m-underdot ("ṃ").
 Because the extant editions inconsistently use punctuation, we do not naively trust their punctuation for sentence tokenization but rather split our text into sentences by hand based on syntax.
@@ -16,7 +16,7 @@ For sentence ids, we use SuttaCentral's [segment ids](https://suttacentral.net/n
 When we split one SuttaCentral segment into multiple sentences, we append `_1`, `_2`, etc to the end of the segment id to mark the sentence's order within the segment.
 
 This treebank is still a work-in-progress and is being actively updated and expanded.
-We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences all drawn from [the Mahāpadānasutta](https://tipitaka2500.github.io/tipitaka/7D/1.html) ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=linebyline&reference=main&script=latin)).
+We currently have only 2049 of the approximately three million words of the Pāli Canon annotated, in 222 sentences all drawn from the Mahāpadānasutta ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=linebyline&reference=main&script=latin)).
 
 # AI Policy
 
