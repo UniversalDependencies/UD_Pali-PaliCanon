@@ -1426,7 +1426,7 @@
 3	bhikkhave	bhikkhu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 4-5	sattāhajāte	_	_	_	_	_	_	_	_
 4	sattāha	sattāha	NOUN	_	_	5	compound:kd	_	_
-5	jāte	janati	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	_
+5	jāte	jāyati	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	_
 6	bodhisatte	bodhisatta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	nsubj	_	_
 7-8	bodhisattamātā	_	_	_	_	_	_	_	_
 7	bodhisatta	bodhisatta	NOUN	_	_	8	compound:tp	_	_
@@ -1796,9 +1796,9 @@
 7	mahā	mahant	ADJ	_	_	8	compound:kd	_	_
 8	purisa	purisa	NOUN	_	_	9	compound:tp	_	_
 9	lakkhaṇehi	lakkhaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	10	obl	_	_
-10	samannāgato	samannāgacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+10	samannāgato	samannāgata	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 11	yehi	yad	PRON	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Rel	12	obl	_	_
-12	samannāgatassa	samannāgacchati	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+12	samannāgatassa	samannāgata	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
 13-14	mahāpurisassa	_	_	_	_	_	_	_	_
 13	mahā	mahant	ADJ	_	_	14	compound:kd	_	_
 14	purisassa	purisa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
@@ -1830,7 +1830,7 @@
 15-17	sattaratanasamannāgato	_	_	_	_	_	_	_	_
 15	satta	satta	NUM	_	NumType=Card	16	compound:dg	_	_
 16	ratana	ratana	NOUN	_	_	17	compound:tp	_	_
-17	samannāgato	samannāgacchati	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+17	samannāgato	samannāgata	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
 
 # sent_id = dn14:1.32.3
 # gretil_sent_id = dn14_34_3
@@ -2075,7 +2075,7 @@
 3	sārathi	sārathi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 4	vipassissa	vipassin	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
 5	kumārassa	kumāra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	_
-6	paṭissutvā	paṭisuṇāti	VERB	_	VerbForm=Conv	13	advcl	_	_
+6	paṭissutvā	paṭissuṇāti	VERB	_	VerbForm=Conv	13	advcl	_	_
 7	bhaddāni	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
 8	bhaddāni	bhadda	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
 9	yānāni	yāna	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
