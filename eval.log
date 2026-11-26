@@ -1,0 +1,39 @@
+Running the following version of UD tools:
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 10 13:08:27 2026 +0100
+Evaluating the following revision of UD_Pali-PaliCanon:
+commit 35bba879601b7a0c894542cdf09c7ff46a85767a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 9 22:26:38 2026 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'pi_palicanon'
+Language code (from CoNLL-U file name) = 'pi'
+Found the following data files: pi_palicanon-ud-test.conllu
+Size: counted 2051 of 2051 words (nodes).
+Size: min(0, log((N/1000)**2)) = 1.43665495818049.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 1478 out of 2051 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 25 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang pi --max-err=10 UD_Pali-PaliCanon/pi_palicanon-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.103988553456122) = 0.038514279057823
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.764705882352941) = 0.0849673202614379
+(weight=0.111111111111111) * (score{udeprels}=0.675675675675676) = 0.0750750750750751
+(TOTAL score=0.427692476863472) * (availability=1) * (validity=1) = 0.427692476863472
+STARS = 2
+UD_Pali-PaliCanon	0.427692476863472	2
