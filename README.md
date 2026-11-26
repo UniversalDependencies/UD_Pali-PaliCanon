@@ -1,6 +1,6 @@
 # Summary
 
-UD_Pali-PaliCanon is the first UD-native treebank for the manual annotation of sentences from [the Pāli Canon](https://en.wikipedia.org/wiki/Pali_Canon).
+UD_Pali-PaliCanon is the first UD-native treebank for the manual annotation of sentences from the Pāli Canon.
 
 # Description
 
